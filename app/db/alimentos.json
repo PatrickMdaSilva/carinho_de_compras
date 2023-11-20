@@ -1,0 +1,5972 @@
+[
+ {
+  "id": 1,
+  "alimento": "Abacate, cru",
+  "kcal": 96,
+  "proteina": 1,
+  "lipideo": 8,
+  "carbohidrato": 6,
+  "fibra": 6,
+  "calcio_mg": 7
+ },
+ {
+  "id": 2,
+  "alimento": "Abacaxi, cru",
+  "kcal": 48,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 0,
+  "calcio_mg": 22
+ },
+ {
+  "id": 3,
+  "alimento": "Abacaxi, polpa, congelada",
+  "kcal": 30,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 4,
+  "alimento": "Abadejo, filé, congelado, assado",
+  "kcal": 111,
+  "proteina": 23,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 22
+ },
+ {
+  "id": 5,
+  "alimento": "Abadejo, filé, congelado, cru",
+  "kcal": 59,
+  "proteina": 13,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 6,
+  "alimento": "Abadejo, filé, congelado, grelhado",
+  "kcal": 129,
+  "proteina": 27,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 20
+ },
+ {
+  "id": 7,
+  "alimento": "Abadejo, filé, congelado,cozido",
+  "kcal": 91,
+  "proteina": 19,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 16
+ },
+ {
+  "id": 8,
+  "alimento": "Abiu, cru",
+  "kcal": 62,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 1,
+  "calcio_mg": 5
+ },
+ {
+  "id": 9,
+  "alimento": "Abóbora, cabotian, cozida",
+  "kcal": 48,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 2,
+  "calcio_mg": 7
+ },
+ {
+  "id": 10,
+  "alimento": "Abóbora, cabotian, crua",
+  "kcal": 38,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 11,
+  "alimento": "Abóbora, menina brasileira, crua",
+  "kcal": 13,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 1,
+  "calcio_mg": 8
+ },
+ {
+  "id": 12,
+  "alimento": "Abóbora, moranga, crua",
+  "kcal": 12,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 13,
+  "alimento": "Abóbora, moranga, refogada",
+  "kcal": 29,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 1,
+  "calcio_mg": 19
+ },
+ {
+  "id": 14,
+  "alimento": "Abóbora, pescoço, crua",
+  "kcal": 24,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 2,
+  "calcio_mg": 8
+ },
+ {
+  "id": 15,
+  "alimento": "Abobrinha, italiana, cozida",
+  "kcal": 15,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 1,
+  "calcio_mg": 16
+ },
+ {
+  "id": 16,
+  "alimento": "Abobrinha, italiana, crua",
+  "kcal": 19,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 1,
+  "calcio_mg": 15
+ },
+ {
+  "id": 17,
+  "alimento": "Abobrinha, italiana, refogada",
+  "kcal": 24,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 1,
+  "calcio_mg": 20
+ },
+ {
+  "id": 18,
+  "alimento": "Abobrinha, paulista, crua",
+  "kcal": 30,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 2,
+  "calcio_mg": 18
+ },
+ {
+  "id": 19,
+  "alimento": "Açaí, polpa, com xarope de guaraná e glucose",
+  "kcal": 110,
+  "proteina": 0,
+  "lipideo": 3,
+  "carbohidrato": 21,
+  "fibra": 1,
+  "calcio_mg": 22
+ },
+ {
+  "id": 20,
+  "alimento": "Açaí, polpa, congelada",
+  "kcal": 58,
+  "proteina": 0,
+  "lipideo": 3,
+  "carbohidrato": 6,
+  "fibra": 2,
+  "calcio_mg": 35
+ },
+ {
+  "id": 21,
+  "alimento": "Acarajé",
+  "kcal": 289,
+  "proteina": 8,
+  "lipideo": 19,
+  "carbohidrato": 19,
+  "fibra": 9,
+  "calcio_mg": 124
+ },
+ {
+  "id": 22,
+  "alimento": "Acelga, crua",
+  "kcal": 20,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 1,
+  "calcio_mg": 42
+ },
+ {
+  "id": 23,
+  "alimento": "Acerola, crua",
+  "kcal": 33,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 12
+ },
+ {
+  "id": 24,
+  "alimento": "Acerola, polpa, congelada",
+  "kcal": 21,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 25,
+  "alimento": "Achocolatado, pó",
+  "kcal": 401,
+  "proteina": 4,
+  "lipideo": 2,
+  "carbohidrato": 91,
+  "fibra": 3,
+  "calcio_mg": 44
+ },
+ {
+  "id": 26,
+  "alimento": "Açúcar, cristal",
+  "kcal": 386,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 99,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 27,
+  "alimento": "Açúcar, mascavo",
+  "kcal": 368,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 94,
+  "fibra": 0,
+  "calcio_mg": 126
+ },
+ {
+  "id": 28,
+  "alimento": "Açúcar, refinado",
+  "kcal": 386,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 99,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 29,
+  "alimento": "Agrião, cru",
+  "kcal": 16,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 132
+ },
+ {
+  "id": 30,
+  "alimento": "Aipo, cru",
+  "kcal": 19,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 65
+ },
+ {
+  "id": 31,
+  "alimento": "Alface, americana, crua",
+  "kcal": 8,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 1,
+  "fibra": 1,
+  "calcio_mg": 14
+ },
+ {
+  "id": 32,
+  "alimento": "Alface, crespa, crua",
+  "kcal": 10,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 1,
+  "fibra": 1,
+  "calcio_mg": 37
+ },
+ {
+  "id": 33,
+  "alimento": "Alface, lisa, crua",
+  "kcal": 13,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 27
+ },
+ {
+  "id": 34,
+  "alimento": "Alface, roxa, crua",
+  "kcal": 12,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 33
+ },
+ {
+  "id": 35,
+  "alimento": "Alfavaca, crua",
+  "kcal": 29,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 4,
+  "calcio_mg": 258
+ },
+ {
+  "id": 36,
+  "alimento": "Alho, cru",
+  "kcal": 113,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 23,
+  "fibra": 4,
+  "calcio_mg": 13
+ },
+ {
+  "id": 37,
+  "alimento": "Alho-poró, cru",
+  "kcal": 31,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 2,
+  "calcio_mg": 33
+ },
+ {
+  "id": 38,
+  "alimento": "Almeirão, cru",
+  "kcal": 18,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 2,
+  "calcio_mg": 19
+ },
+ {
+  "id": 39,
+  "alimento": "Almeirão, refogado",
+  "kcal": 65,
+  "proteina": 1,
+  "lipideo": 4,
+  "carbohidrato": 5,
+  "fibra": 3,
+  "calcio_mg": 63
+ },
+ {
+  "id": 40,
+  "alimento": "Ameixa, calda, enlatada ",
+  "kcal": 182,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 46,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 41,
+  "alimento": "Ameixa, crua",
+  "kcal": 52,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 2,
+  "calcio_mg": 5
+ },
+ {
+  "id": 42,
+  "alimento": "Ameixa, em calda, enlatada, drenada ",
+  "kcal": 177,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 47,
+  "fibra": 4,
+  "calcio_mg": 39
+ },
+ {
+  "id": 43,
+  "alimento": "Amêndoa, torrada, salgada",
+  "kcal": 580,
+  "proteina": 18,
+  "lipideo": 47,
+  "carbohidrato": 29,
+  "fibra": 11,
+  "calcio_mg": 236
+ },
+ {
+  "id": 44,
+  "alimento": "Amendoim, grão, cru",
+  "kcal": 544,
+  "proteina": 27,
+  "lipideo": 43,
+  "carbohidrato": 20,
+  "fibra": 8,
+  "calcio_mg": 0
+ },
+ {
+  "id": 45,
+  "alimento": "Amendoim, torrado, salgado",
+  "kcal": 605,
+  "proteina": 22,
+  "lipideo": 53,
+  "carbohidrato": 18,
+  "fibra": 7,
+  "calcio_mg": 39
+ },
+ {
+  "id": 46,
+  "alimento": "Apresuntado",
+  "kcal": 128,
+  "proteina": 13,
+  "lipideo": 6,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 22
+ },
+ {
+  "id": 47,
+  "alimento": "Arroz carreteiro",
+  "kcal": 153,
+  "proteina": 10,
+  "lipideo": 7,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 13
+ },
+ {
+  "id": 48,
+  "alimento": "Arroz, integral, cozido",
+  "kcal": 123,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 25,
+  "fibra": 2,
+  "calcio_mg": 5
+ },
+ {
+  "id": 49,
+  "alimento": "Arroz, integral, cru",
+  "kcal": 359,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 77,
+  "fibra": 4,
+  "calcio_mg": 7
+ },
+ {
+  "id": 50,
+  "alimento": "Arroz, tipo 1, cozido",
+  "kcal": 128,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 28,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 51,
+  "alimento": "Arroz, tipo 1, cru",
+  "kcal": 357,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 78,
+  "fibra": 1,
+  "calcio_mg": 4
+ },
+ {
+  "id": 52,
+  "alimento": "Arroz, tipo 2, cozido",
+  "kcal": 130,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 28,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 53,
+  "alimento": "Arroz, tipo 2, cru",
+  "kcal": 358,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 78,
+  "fibra": 1,
+  "calcio_mg": 4
+ },
+ {
+  "id": 54,
+  "alimento": "Atemóia, crua",
+  "kcal": 96,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 25,
+  "fibra": 2,
+  "calcio_mg": 22
+ },
+ {
+  "id": 55,
+  "alimento": "Atum, conserva em óleo",
+  "kcal": 165,
+  "proteina": 26,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 56,
+  "alimento": "Atum, fresco, cru",
+  "kcal": 117,
+  "proteina": 25,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 57,
+  "alimento": "Aveia, flocos, crua",
+  "kcal": 393,
+  "proteina": 13,
+  "lipideo": 8,
+  "carbohidrato": 66,
+  "fibra": 9,
+  "calcio_mg": 47
+ },
+ {
+  "id": 58,
+  "alimento": "Azeite, de dendê",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 59,
+  "alimento": "Azeite, de oliva, extra virgem",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 60,
+  "alimento": "Azeitona, preta, conserva",
+  "kcal": 194,
+  "proteina": 1,
+  "lipideo": 20,
+  "carbohidrato": 5,
+  "fibra": 4,
+  "calcio_mg": 58
+ },
+ {
+  "id": 61,
+  "alimento": "Azeitona, verde, conserva",
+  "kcal": 136,
+  "proteina": 0,
+  "lipideo": 14,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 45
+ },
+ {
+  "id": 62,
+  "alimento": "Bacalhau, salgado, cru",
+  "kcal": 135,
+  "proteina": 29,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 156
+ },
+ {
+  "id": 63,
+  "alimento": "Bacalhau, salgado, refogado",
+  "kcal": 139,
+  "proteina": 23,
+  "lipideo": 3,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 59
+ },
+ {
+  "id": 64,
+  "alimento": "Baião de dois, arroz e feijão-de-corda",
+  "kcal": 135,
+  "proteina": 6,
+  "lipideo": 3,
+  "carbohidrato": 20,
+  "fibra": 5,
+  "calcio_mg": 33
+ },
+ {
+  "id": 65,
+  "alimento": "Banana, da terra, crua",
+  "kcal": 128,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 33,
+  "fibra": 1,
+  "calcio_mg": 4
+ },
+ {
+  "id": 66,
+  "alimento": "Banana, doce em barra",
+  "kcal": 280,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 75,
+  "fibra": 3,
+  "calcio_mg": 11
+ },
+ {
+  "id": 67,
+  "alimento": "Banana, figo, crua",
+  "kcal": 105,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 27,
+  "fibra": 2,
+  "calcio_mg": 6
+ },
+ {
+  "id": 68,
+  "alimento": "Banana, maçã, crua",
+  "kcal": 86,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 22,
+  "fibra": 2,
+  "calcio_mg": 3
+ },
+ {
+  "id": 69,
+  "alimento": "Banana, nanica, crua",
+  "kcal": 91,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 23,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 70,
+  "alimento": "Banana, ouro, crua",
+  "kcal": 112,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 29,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 71,
+  "alimento": "Banana, pacova, crua",
+  "kcal": 77,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 20,
+  "fibra": 2,
+  "calcio_mg": 5
+ },
+ {
+  "id": 72,
+  "alimento": "Banana, prata, crua",
+  "kcal": 98,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 25,
+  "fibra": 2,
+  "calcio_mg": 7
+ },
+ {
+  "id": 73,
+  "alimento": "Barreado",
+  "kcal": 164,
+  "proteina": 18,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 74,
+  "alimento": "Batata, baroa, cozida",
+  "kcal": 80,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 18,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 75,
+  "alimento": "Batata, baroa, crua",
+  "kcal": 100,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 23,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 76,
+  "alimento": "Batata, doce, cozida",
+  "kcal": 76,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 18,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 77,
+  "alimento": "Batata, doce, crua",
+  "kcal": 118,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 28,
+  "fibra": 2,
+  "calcio_mg": 21
+ },
+ {
+  "id": 78,
+  "alimento": "Batata, frita, tipo chips, industrializada",
+  "kcal": 542,
+  "proteina": 5,
+  "lipideo": 36,
+  "carbohidrato": 51,
+  "fibra": 2,
+  "calcio_mg": 11
+ },
+ {
+  "id": 79,
+  "alimento": "Batata, inglesa, cozida",
+  "kcal": 51,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 80,
+  "alimento": "Batata, inglesa, crua",
+  "kcal": 64,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 81,
+  "alimento": "Batata, inglesa, frita",
+  "kcal": 267,
+  "proteina": 4,
+  "lipideo": 13,
+  "carbohidrato": 35,
+  "fibra": 8,
+  "calcio_mg": 6
+ },
+ {
+  "id": 82,
+  "alimento": "Batata, inglesa, sauté",
+  "kcal": 67,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 1,
+  "calcio_mg": 4
+ },
+ {
+  "id": 83,
+  "alimento": "Bebida isotônica, sabores variados",
+  "kcal": 25,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 84,
+  "alimento": "Bebida láctea, pêssego",
+  "kcal": 55,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 88
+ },
+ {
+  "id": 85,
+  "alimento": "Berinjela, cozida",
+  "kcal": 18,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 10
+ },
+ {
+  "id": 86,
+  "alimento": "Berinjela, crua",
+  "kcal": 19,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 9
+ },
+ {
+  "id": 87,
+  "alimento": "Beterraba, cozida",
+  "kcal": 32,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 15
+ },
+ {
+  "id": 88,
+  "alimento": "Beterraba, crua",
+  "kcal": 48,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 3,
+  "calcio_mg": 18
+ },
+ {
+  "id": 89,
+  "alimento": "Bife à cavalo, com contra filé",
+  "kcal": 291,
+  "proteina": 23,
+  "lipideo": 21,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 25
+ },
+ {
+  "id": 90,
+  "alimento": "Biscoito, doce, maisena",
+  "kcal": 442,
+  "proteina": 8,
+  "lipideo": 11,
+  "carbohidrato": 75,
+  "fibra": 2,
+  "calcio_mg": 54
+ },
+ {
+  "id": 91,
+  "alimento": "Biscoito, doce, recheado com chocolate",
+  "kcal": 471,
+  "proteina": 6,
+  "lipideo": 19,
+  "carbohidrato": 70,
+  "fibra": 2,
+  "calcio_mg": 27
+ },
+ {
+  "id": 92,
+  "alimento": "Biscoito, doce, recheado com morango",
+  "kcal": 471,
+  "proteina": 5,
+  "lipideo": 19,
+  "carbohidrato": 71,
+  "fibra": 1,
+  "calcio_mg": 35
+ },
+ {
+  "id": 93,
+  "alimento": "Biscoito, doce, wafer, recheado de chocolate",
+  "kcal": 502,
+  "proteina": 5,
+  "lipideo": 24,
+  "carbohidrato": 67,
+  "fibra": 1,
+  "calcio_mg": 23
+ },
+ {
+  "id": 94,
+  "alimento": "Biscoito, doce, wafer, recheado de morango",
+  "kcal": 513,
+  "proteina": 4,
+  "lipideo": 26,
+  "carbohidrato": 67,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 95,
+  "alimento": "Biscoito, polvilho doce",
+  "kcal": 437,
+  "proteina": 1,
+  "lipideo": 12,
+  "carbohidrato": 80,
+  "fibra": 1,
+  "calcio_mg": 30
+ },
+ {
+  "id": 96,
+  "alimento": "Biscoito, salgado, cream cracker",
+  "kcal": 431,
+  "proteina": 10,
+  "lipideo": 14,
+  "carbohidrato": 68,
+  "fibra": 2,
+  "calcio_mg": 20
+ },
+ {
+  "id": 97,
+  "alimento": "Bolinho de arroz",
+  "kcal": 273,
+  "proteina": 8,
+  "lipideo": 8,
+  "carbohidrato": 41,
+  "fibra": 2,
+  "calcio_mg": 23
+ },
+ {
+  "id": 98,
+  "alimento": "Bolo, mistura para",
+  "kcal": 418,
+  "proteina": 6,
+  "lipideo": 6,
+  "carbohidrato": 84,
+  "fibra": 1,
+  "calcio_mg": 58
+ },
+ {
+  "id": 99,
+  "alimento": "Bolo, pronto, aipim",
+  "kcal": 323,
+  "proteina": 4,
+  "lipideo": 12,
+  "carbohidrato": 47,
+  "fibra": 0,
+  "calcio_mg": 85
+ },
+ {
+  "id": 100,
+  "alimento": "Bolo, pronto, chocolate",
+  "kcal": 410,
+  "proteina": 6,
+  "lipideo": 18,
+  "carbohidrato": 54,
+  "fibra": 1,
+  "calcio_mg": 74
+ },
+ {
+  "id": 101,
+  "alimento": "Bolo, pronto, coco",
+  "kcal": 333,
+  "proteina": 5,
+  "lipideo": 11,
+  "carbohidrato": 52,
+  "fibra": 1,
+  "calcio_mg": 57
+ },
+ {
+  "id": 102,
+  "alimento": "Bolo, pronto, milho",
+  "kcal": 311,
+  "proteina": 4,
+  "lipideo": 12,
+  "carbohidrato": 45,
+  "fibra": 0,
+  "calcio_mg": 82
+ },
+ {
+  "id": 103,
+  "alimento": "Brócolis, cozido",
+  "kcal": 24,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 50
+ },
+ {
+  "id": 104,
+  "alimento": "Brócolis, cru",
+  "kcal": 25,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 85
+ },
+ {
+  "id": 105,
+  "alimento": "Cação, posta, com farinha de trigo, frita",
+  "kcal": 208,
+  "proteina": 24,
+  "lipideo": 9,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 30
+ },
+ {
+  "id": 106,
+  "alimento": "Cação, posta, cozida",
+  "kcal": 116,
+  "proteina": 25,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 107,
+  "alimento": "Cação, posta, crua",
+  "kcal": 83,
+  "proteina": 17,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 108,
+  "alimento": "Cacau, cru",
+  "kcal": 74,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 19,
+  "fibra": 2,
+  "calcio_mg": 12
+ },
+ {
+  "id": 109,
+  "alimento": "Café, infusão 10%",
+  "kcal": 9,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 110,
+  "alimento": "Café, pó, torrado",
+  "kcal": 418,
+  "proteina": 14,
+  "lipideo": 11,
+  "carbohidrato": 65,
+  "fibra": 51,
+  "calcio_mg": 106
+ },
+ {
+  "id": 111,
+  "alimento": "Cajá, polpa, congelada",
+  "kcal": 26,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 1,
+  "calcio_mg": 9
+ },
+ {
+  "id": 112,
+  "alimento": "Cajá-Manga, cru",
+  "kcal": 45,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 2,
+  "calcio_mg": 12
+ },
+ {
+  "id": 113,
+  "alimento": "Caju, cru",
+  "kcal": 43,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 1
+ },
+ {
+  "id": 114,
+  "alimento": "Caju, polpa, congelada",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 115,
+  "alimento": "Caju, suco concentrado, envasado",
+  "kcal": 45,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 116,
+  "alimento": "Caldo de carne, tablete",
+  "kcal": 240,
+  "proteina": 7,
+  "lipideo": 16,
+  "carbohidrato": 15,
+  "fibra": 0,
+  "calcio_mg": 129
+ },
+ {
+  "id": 117,
+  "alimento": "Caldo de galinha, tablete",
+  "kcal": 251,
+  "proteina": 6,
+  "lipideo": 20,
+  "carbohidrato": 10,
+  "fibra": 11,
+  "calcio_mg": 16
+ },
+ {
+  "id": 118,
+  "alimento": "Camarão à baiana",
+  "kcal": 100,
+  "proteina": 7,
+  "lipideo": 5,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 42
+ },
+ {
+  "id": 119,
+  "alimento": "Camarão, Rio Grande, grande, cozido",
+  "kcal": 90,
+  "proteina": 18,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 89
+ },
+ {
+  "id": 120,
+  "alimento": "Camarão, Rio Grande, grande, cru",
+  "kcal": 47,
+  "proteina": 9,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 51
+ },
+ {
+  "id": 121,
+  "alimento": "Camarão, Sete Barbas, sem cabeça, com casca, frito",
+  "kcal": 231,
+  "proteina": 18,
+  "lipideo": 15,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 959
+ },
+ {
+  "id": 122,
+  "alimento": "Cana, aguardente 1",
+  "kcal": 215,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 123,
+  "alimento": "Cana, caldo de",
+  "kcal": 65,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 18,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 124,
+  "alimento": "Canjica, branca, crua",
+  "kcal": 357,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 78,
+  "fibra": 5,
+  "calcio_mg": 1
+ },
+ {
+  "id": 125,
+  "alimento": "Canjica, com leite integral",
+  "kcal": 112,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 23,
+  "fibra": 1,
+  "calcio_mg": 42
+ },
+ {
+  "id": 126,
+  "alimento": "Capuccino, pó",
+  "kcal": 417,
+  "proteina": 11,
+  "lipideo": 8,
+  "carbohidrato": 73,
+  "fibra": 2,
+  "calcio_mg": 466
+ },
+ {
+  "id": 127,
+  "alimento": "Caqui, chocolate, cru",
+  "kcal": 71,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 19,
+  "fibra": 6,
+  "calcio_mg": 17
+ },
+ {
+  "id": 128,
+  "alimento": "Cará, cozido",
+  "kcal": 77,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 18,
+  "fibra": 2,
+  "calcio_mg": 5
+ },
+ {
+  "id": 129,
+  "alimento": "Cará, cru",
+  "kcal": 95,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 22,
+  "fibra": 7,
+  "calcio_mg": 3
+ },
+ {
+  "id": 130,
+  "alimento": "Carambola, crua",
+  "kcal": 45,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 2,
+  "calcio_mg": 4
+ },
+ {
+  "id": 131,
+  "alimento": "Caranguejo, cozido",
+  "kcal": 82,
+  "proteina": 18,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 357
+ },
+ {
+  "id": 132,
+  "alimento": "Carne, bovina, acém, moído, cozido",
+  "kcal": 212,
+  "proteina": 26,
+  "lipideo": 10,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 133,
+  "alimento": "Carne, bovina, acém, moído, cru",
+  "kcal": 136,
+  "proteina": 19,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 134,
+  "alimento": "Carne, bovina, acém, sem gordura, cozido",
+  "kcal": 214,
+  "proteina": 27,
+  "lipideo": 10,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 135,
+  "alimento": "Carne, bovina, acém, sem gordura, cru",
+  "kcal": 144,
+  "proteina": 20,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 136,
+  "alimento": "Carne, bovina, almôndegas, cruas",
+  "kcal": 189,
+  "proteina": 12,
+  "lipideo": 11,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 22
+ },
+ {
+  "id": 137,
+  "alimento": "Carne, bovina, almôndegas, fritas",
+  "kcal": 271,
+  "proteina": 18,
+  "lipideo": 15,
+  "carbohidrato": 14,
+  "fibra": 0,
+  "calcio_mg": 26
+ },
+ {
+  "id": 138,
+  "alimento": "Carne, bovina, bucho, cozido",
+  "kcal": 133,
+  "proteina": 21,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 139,
+  "alimento": "Carne, bovina, bucho, cru",
+  "kcal": 137,
+  "proteina": 20,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 140,
+  "alimento": "Carne, bovina, capa de contra-filé, com gordura, crua",
+  "kcal": 216,
+  "proteina": 19,
+  "lipideo": 14,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 141,
+  "alimento": "Carne, bovina, capa de contra-filé, com gordura, grelhada",
+  "kcal": 311,
+  "proteina": 30,
+  "lipideo": 20,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 142,
+  "alimento": "Carne, bovina, capa de contra-filé, sem gordura, crua",
+  "kcal": 131,
+  "proteina": 21,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 143,
+  "alimento": "Carne, bovina, capa de contra-filé, sem gordura, grelhada",
+  "kcal": 239,
+  "proteina": 35,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 144,
+  "alimento": "Carne, bovina, charque, cozido",
+  "kcal": 262,
+  "proteina": 36,
+  "lipideo": 11,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 145,
+  "alimento": "Carne, bovina, charque, cru",
+  "kcal": 248,
+  "proteina": 22,
+  "lipideo": 16,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 15
+ },
+ {
+  "id": 146,
+  "alimento": "Carne, bovina, contra-filé de costela, cru",
+  "kcal": 202,
+  "proteina": 19,
+  "lipideo": 13,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 147,
+  "alimento": "Carne, bovina, contra-filé de costela, grelhado",
+  "kcal": 274,
+  "proteina": 29,
+  "lipideo": 16,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 148,
+  "alimento": "Carne, bovina, contra-filé, à milanesa",
+  "kcal": 351,
+  "proteina": 20,
+  "lipideo": 23,
+  "carbohidrato": 12,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 149,
+  "alimento": "Carne, bovina, contra-filé, com gordura, cru",
+  "kcal": 205,
+  "proteina": 21,
+  "lipideo": 12,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 150,
+  "alimento": "Carne, bovina, contra-filé, com gordura, grelhado",
+  "kcal": 278,
+  "proteina": 32,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 151,
+  "alimento": "Carne, bovina, contra-filé, sem gordura, cru",
+  "kcal": 156,
+  "proteina": 23,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 152,
+  "alimento": "Carne, bovina, contra-filé, sem gordura, grelhado",
+  "kcal": 193,
+  "proteina": 35,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 153,
+  "alimento": "Carne, bovina, costela, assada",
+  "kcal": 373,
+  "proteina": 28,
+  "lipideo": 27,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 28
+ },
+ {
+  "id": 154,
+  "alimento": "Carne, bovina, costela, crua",
+  "kcal": 357,
+  "proteina": 16,
+  "lipideo": 31,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 155,
+  "alimento": "Carne, bovina, coxão duro, sem gordura, cozido",
+  "kcal": 216,
+  "proteina": 31,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 156,
+  "alimento": "Carne, bovina, coxão duro, sem gordura, cru",
+  "kcal": 147,
+  "proteina": 21,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 157,
+  "alimento": "Carne, bovina, coxão mole, sem gordura, cozido",
+  "kcal": 218,
+  "proteina": 32,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 158,
+  "alimento": "Carne, bovina, coxão mole, sem gordura, cru",
+  "kcal": 169,
+  "proteina": 21,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 159,
+  "alimento": "Carne, bovina, cupim, assado",
+  "kcal": 330,
+  "proteina": 28,
+  "lipideo": 23,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 160,
+  "alimento": "Carne, bovina, cupim, cru",
+  "kcal": 221,
+  "proteina": 19,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 161,
+  "alimento": "Carne, bovina, fígado, cru",
+  "kcal": 141,
+  "proteina": 20,
+  "lipideo": 5,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 162,
+  "alimento": "Carne, bovina, fígado, grelhado",
+  "kcal": 225,
+  "proteina": 29,
+  "lipideo": 9,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 163,
+  "alimento": "Carne, bovina, filé mingnon, sem gordura, cru",
+  "kcal": 142,
+  "proteina": 21,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 164,
+  "alimento": "Carne, bovina, filé mingnon, sem gordura, grelhado",
+  "kcal": 219,
+  "proteina": 32,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 165,
+  "alimento": "Carne, bovina, flanco, sem gordura, cozido",
+  "kcal": 195,
+  "proteina": 29,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 166,
+  "alimento": "Carne, bovina, flanco, sem gordura, cru",
+  "kcal": 141,
+  "proteina": 19,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 167,
+  "alimento": "Carne, bovina, fraldinha, com gordura, cozida",
+  "kcal": 338,
+  "proteina": 24,
+  "lipideo": 26,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 168,
+  "alimento": "Carne, bovina, fraldinha, com gordura, crua",
+  "kcal": 220,
+  "proteina": 17,
+  "lipideo": 16,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 169,
+  "alimento": "Carne, bovina, lagarto, cozido",
+  "kcal": 222,
+  "proteina": 32,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 170,
+  "alimento": "Carne, bovina, lagarto, cru",
+  "kcal": 134,
+  "proteina": 20,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 171,
+  "alimento": "Carne, bovina, língua, cozida",
+  "kcal": 314,
+  "proteina": 21,
+  "lipideo": 24,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 172,
+  "alimento": "Carne, bovina, língua, crua",
+  "kcal": 215,
+  "proteina": 17,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 173,
+  "alimento": "Carne, bovina, maminha, crua",
+  "kcal": 152,
+  "proteina": 20,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 174,
+  "alimento": "Carne, bovina, maminha, grelhada",
+  "kcal": 153,
+  "proteina": 30,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 175,
+  "alimento": "Carne, bovina, miolo de alcatra, sem gordura, cru",
+  "kcal": 162,
+  "proteina": 21,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 176,
+  "alimento": "Carne, bovina, miolo de alcatra, sem gordura, grelhado",
+  "kcal": 241,
+  "proteina": 31,
+  "lipideo": 11,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 177,
+  "alimento": "Carne, bovina, músculo, sem gordura, cozido",
+  "kcal": 193,
+  "proteina": 31,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 178,
+  "alimento": "Carne, bovina, músculo, sem gordura, cru",
+  "kcal": 141,
+  "proteina": 21,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 179,
+  "alimento": "Carne, bovina, paleta, com gordura, crua",
+  "kcal": 158,
+  "proteina": 21,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 180,
+  "alimento": "Carne, bovina, paleta, sem gordura, cozida",
+  "kcal": 193,
+  "proteina": 29,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 181,
+  "alimento": "Carne, bovina, paleta, sem gordura, crua",
+  "kcal": 140,
+  "proteina": 21,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 182,
+  "alimento": "Carne, bovina, patinho, sem gordura, cru",
+  "kcal": 133,
+  "proteina": 21,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 183,
+  "alimento": "Carne, bovina, patinho, sem gordura, grelhado",
+  "kcal": 219,
+  "proteina": 35,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 184,
+  "alimento": "Carne, bovina, peito, sem gordura, cozido",
+  "kcal": 338,
+  "proteina": 22,
+  "lipideo": 26,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 185,
+  "alimento": "Carne, bovina, peito, sem gordura, cru",
+  "kcal": 259,
+  "proteina": 17,
+  "lipideo": 20,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 186,
+  "alimento": "Carne, bovina, picanha, com gordura, crua",
+  "kcal": 212,
+  "proteina": 18,
+  "lipideo": 14,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 187,
+  "alimento": "Carne, bovina, picanha, com gordura, grelhada",
+  "kcal": 288,
+  "proteina": 26,
+  "lipideo": 19,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 188,
+  "alimento": "Carne, bovina, picanha, sem gordura, crua",
+  "kcal": 133,
+  "proteina": 21,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 189,
+  "alimento": "Carne, bovina, picanha, sem gordura, grelhada",
+  "kcal": 238,
+  "proteina": 31,
+  "lipideo": 11,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 190,
+  "alimento": "Carne, bovina, seca, cozida",
+  "kcal": 312,
+  "proteina": 26,
+  "lipideo": 21,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 191,
+  "alimento": "Carne, bovina, seca, crua",
+  "kcal": 312,
+  "proteina": 19,
+  "lipideo": 25,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 192,
+  "alimento": "Caruru, cru",
+  "kcal": 34,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 4,
+  "calcio_mg": 455
+ },
+ {
+  "id": 193,
+  "alimento": "Castanha-de-caju, torrada, salgada",
+  "kcal": 570,
+  "proteina": 18,
+  "lipideo": 46,
+  "carbohidrato": 29,
+  "fibra": 3,
+  "calcio_mg": 32
+ },
+ {
+  "id": 194,
+  "alimento": "Castanha-do-Brasil, crua",
+  "kcal": 642,
+  "proteina": 14,
+  "lipideo": 63,
+  "carbohidrato": 15,
+  "fibra": 7,
+  "calcio_mg": 146
+ },
+ {
+  "id": 195,
+  "alimento": "Catalonha, crua",
+  "kcal": 23,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 56
+ },
+ {
+  "id": 196,
+  "alimento": "Catalonha, refogada",
+  "kcal": 63,
+  "proteina": 1,
+  "lipideo": 4,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 63
+ },
+ {
+  "id": 197,
+  "alimento": "Cebola, crua",
+  "kcal": 39,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 2,
+  "calcio_mg": 14
+ },
+ {
+  "id": 198,
+  "alimento": "Cebolinha, crua",
+  "kcal": 19,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 3,
+  "calcio_mg": 79
+ },
+ {
+  "id": 199,
+  "alimento": "Cenoura, cozida",
+  "kcal": 29,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 2,
+  "calcio_mg": 25
+ },
+ {
+  "id": 200,
+  "alimento": "Cenoura, crua",
+  "kcal": 34,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 3,
+  "calcio_mg": 22
+ },
+ {
+  "id": 201,
+  "alimento": "Cereais, milho, flocos, com sal",
+  "kcal": 369,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 80,
+  "fibra": 5,
+  "calcio_mg": 1
+ },
+ {
+  "id": 202,
+  "alimento": "Cereais, milho, flocos, sem sal",
+  "kcal": 363,
+  "proteina": 6,
+  "lipideo": 1,
+  "carbohidrato": 80,
+  "fibra": 1,
+  "calcio_mg": 1
+ },
+ {
+  "id": 203,
+  "alimento": "Cereais, mingau, milho, infantil",
+  "kcal": 394,
+  "proteina": 6,
+  "lipideo": 1,
+  "carbohidrato": 87,
+  "fibra": 3,
+  "calcio_mg": 218
+ },
+ {
+  "id": 204,
+  "alimento": "Cereais, mistura para vitamina, trigo, cevada e aveia",
+  "kcal": 381,
+  "proteina": 8,
+  "lipideo": 2,
+  "carbohidrato": 81,
+  "fibra": 4,
+  "calcio_mg": 584
+ },
+ {
+  "id": 205,
+  "alimento": "Cereal matinal, milho",
+  "kcal": 365,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 83,
+  "fibra": 4,
+  "calcio_mg": 142
+ },
+ {
+  "id": 206,
+  "alimento": "Cereal matinal, milho, açúcar",
+  "kcal": 376,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 88,
+  "fibra": 2,
+  "calcio_mg": 56
+ },
+ {
+  "id": 207,
+  "alimento": "Cerveja, pilsen 2",
+  "kcal": 40,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 208,
+  "alimento": "Chá, erva-doce, infusão 5%",
+  "kcal": 1,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 209,
+  "alimento": "Chá, mate, infusão 5%",
+  "kcal": 2,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 210,
+  "alimento": "Chá, preto, infusão 5%",
+  "kcal": 2,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 211,
+  "alimento": "Chantilly, spray, com gordura vegetal",
+  "kcal": 314,
+  "proteina": 0,
+  "lipideo": 27,
+  "carbohidrato": 16,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 212,
+  "alimento": "Charuto, de repolho",
+  "kcal": 78,
+  "proteina": 6,
+  "lipideo": 1,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 22
+ },
+ {
+  "id": 213,
+  "alimento": "Chicória, crua",
+  "kcal": 13,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 44
+ },
+ {
+  "id": 214,
+  "alimento": "Chocolate, ao leite",
+  "kcal": 539,
+  "proteina": 7,
+  "lipideo": 30,
+  "carbohidrato": 59,
+  "fibra": 2,
+  "calcio_mg": 191
+ },
+ {
+  "id": 215,
+  "alimento": "Chocolate, ao leite, com castanha do Pará",
+  "kcal": 558,
+  "proteina": 7,
+  "lipideo": 34,
+  "carbohidrato": 55,
+  "fibra": 2,
+  "calcio_mg": 171
+ },
+ {
+  "id": 216,
+  "alimento": "Chocolate, ao leite, dietético",
+  "kcal": 556,
+  "proteina": 6,
+  "lipideo": 33,
+  "carbohidrato": 56,
+  "fibra": 2,
+  "calcio_mg": 187
+ },
+ {
+  "id": 217,
+  "alimento": "Chocolate, meio amargo",
+  "kcal": 474,
+  "proteina": 4,
+  "lipideo": 29,
+  "carbohidrato": 62,
+  "fibra": 4,
+  "calcio_mg": 44
+ },
+ {
+  "id": 218,
+  "alimento": "Chuchu, cozido",
+  "kcal": 18,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 1,
+  "calcio_mg": 7
+ },
+ {
+  "id": 219,
+  "alimento": "Chuchu, cru",
+  "kcal": 16,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 220,
+  "alimento": "Ciriguela, crua",
+  "kcal": 75,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 18,
+  "fibra": 3,
+  "calcio_mg": 27
+ },
+ {
+  "id": 221,
+  "alimento": "Cocada branca",
+  "kcal": 448,
+  "proteina": 1,
+  "lipideo": 13,
+  "carbohidrato": 81,
+  "fibra": 3,
+  "calcio_mg": 7
+ },
+ {
+  "id": 222,
+  "alimento": "Coco,  verde, cru",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 223,
+  "alimento": "Coco, água de",
+  "kcal": 21,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 18
+ },
+ {
+  "id": 224,
+  "alimento": "Coco, cru",
+  "kcal": 406,
+  "proteina": 3,
+  "lipideo": 41,
+  "carbohidrato": 10,
+  "fibra": 5,
+  "calcio_mg": 6
+ },
+ {
+  "id": 225,
+  "alimento": "Coentro, folhas desidratadas",
+  "kcal": 309,
+  "proteina": 20,
+  "lipideo": 10,
+  "carbohidrato": 47,
+  "fibra": 37,
+  "calcio_mg": 783
+ },
+ {
+  "id": 226,
+  "alimento": "Corimba, cru",
+  "kcal": 128,
+  "proteina": 17,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 40
+ },
+ {
+  "id": 227,
+  "alimento": "Corimbatá, assado",
+  "kcal": 261,
+  "proteina": 19,
+  "lipideo": 19,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 22
+ },
+ {
+  "id": 228,
+  "alimento": "Corimbatá, cozido",
+  "kcal": 238,
+  "proteina": 20,
+  "lipideo": 16,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 64
+ },
+ {
+  "id": 229,
+  "alimento": "Corvina de água doce, crua",
+  "kcal": 101,
+  "proteina": 18,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 39
+ },
+ {
+  "id": 230,
+  "alimento": "Corvina do mar, crua",
+  "kcal": 94,
+  "proteina": 18,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 231,
+  "alimento": "Corvina grande, assada",
+  "kcal": 146,
+  "proteina": 26,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 60
+ },
+ {
+  "id": 232,
+  "alimento": "Corvina grande, cozida",
+  "kcal": 100,
+  "proteina": 23,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 69
+ },
+ {
+  "id": 233,
+  "alimento": "Couve, manteiga, crua",
+  "kcal": 27,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 130
+ },
+ {
+  "id": 234,
+  "alimento": "Couve, manteiga, refogada ",
+  "kcal": 90,
+  "proteina": 1,
+  "lipideo": 6,
+  "carbohidrato": 8,
+  "fibra": 5,
+  "calcio_mg": 177
+ },
+ {
+  "id": 235,
+  "alimento": "Couve-flor, cozida",
+  "kcal": 19,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 2,
+  "calcio_mg": 16
+ },
+ {
+  "id": 236,
+  "alimento": "Couve-flor, crua",
+  "kcal": 22,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 237,
+  "alimento": "Coxinha de frango, frita",
+  "kcal": 283,
+  "proteina": 9,
+  "lipideo": 11,
+  "carbohidrato": 34,
+  "fibra": 4,
+  "calcio_mg": 18
+ },
+ {
+  "id": 238,
+  "alimento": "Creme de arroz, pó",
+  "kcal": 386,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 83,
+  "fibra": 1,
+  "calcio_mg": 7
+ },
+ {
+  "id": 239,
+  "alimento": "Creme de Leite",
+  "kcal": 221,
+  "proteina": 1,
+  "lipideo": 22,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 82
+ },
+ {
+  "id": 240,
+  "alimento": "Creme de milho, pó",
+  "kcal": 333,
+  "proteina": 4,
+  "lipideo": 1,
+  "carbohidrato": 86,
+  "fibra": 3,
+  "calcio_mg": 323
+ },
+ {
+  "id": 241,
+  "alimento": "Croquete, de carne, cru",
+  "kcal": 245,
+  "proteina": 12,
+  "lipideo": 15,
+  "carbohidrato": 13,
+  "fibra": 0,
+  "calcio_mg": 15
+ },
+ {
+  "id": 242,
+  "alimento": "Croquete, de carne, frito",
+  "kcal": 346,
+  "proteina": 16,
+  "lipideo": 22,
+  "carbohidrato": 18,
+  "fibra": 0,
+  "calcio_mg": 18
+ },
+ {
+  "id": 243,
+  "alimento": "Cupuaçu, cru",
+  "kcal": 49,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 3,
+  "calcio_mg": 13
+ },
+ {
+  "id": 244,
+  "alimento": "Cupuaçu, polpa, congelada",
+  "kcal": 48,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 5
+ },
+ {
+  "id": 245,
+  "alimento": "Curau, milho verde",
+  "kcal": 78,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 13,
+  "fibra": 0,
+  "calcio_mg": 52
+ },
+ {
+  "id": 246,
+  "alimento": "Curau, milho verde, mistura para",
+  "kcal": 402,
+  "proteina": 2,
+  "lipideo": 13,
+  "carbohidrato": 79,
+  "fibra": 2,
+  "calcio_mg": 30
+ },
+ {
+  "id": 247,
+  "alimento": "Cuscuz, de milho, cozido com sal",
+  "kcal": 113,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 25,
+  "fibra": 2,
+  "calcio_mg": 1
+ },
+ {
+  "id": 248,
+  "alimento": "Cuscuz, paulista",
+  "kcal": 142,
+  "proteina": 2,
+  "lipideo": 4,
+  "carbohidrato": 22,
+  "fibra": 2,
+  "calcio_mg": 14
+ },
+ {
+  "id": 249,
+  "alimento": "Cuxá, molho",
+  "kcal": 80,
+  "proteina": 5,
+  "lipideo": 3,
+  "carbohidrato": 5,
+  "fibra": 3,
+  "calcio_mg": 105
+ },
+ {
+  "id": 250,
+  "alimento": "Dobradinha",
+  "kcal": 124,
+  "proteina": 19,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 11
+ },
+ {
+  "id": 251,
+  "alimento": "Doce, de abóbora, cremoso",
+  "kcal": 198,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 54,
+  "fibra": 2,
+  "calcio_mg": 12
+ },
+ {
+  "id": 252,
+  "alimento": "Doce, de leite, cremoso",
+  "kcal": 306,
+  "proteina": 5,
+  "lipideo": 5,
+  "carbohidrato": 59,
+  "fibra": 0,
+  "calcio_mg": 195
+ },
+ {
+  "id": 253,
+  "alimento": "Dourada de água doce, fresca",
+  "kcal": 131,
+  "proteina": 18,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 254,
+  "alimento": "Empada de frango, pré-cozida, assada",
+  "kcal": 358,
+  "proteina": 6,
+  "lipideo": 15,
+  "carbohidrato": 47,
+  "fibra": 2,
+  "calcio_mg": 15
+ },
+ {
+  "id": 255,
+  "alimento": "Empada, de frango, pré-cozida",
+  "kcal": 377,
+  "proteina": 7,
+  "lipideo": 22,
+  "carbohidrato": 35,
+  "fibra": 2,
+  "calcio_mg": 13
+ },
+ {
+  "id": 256,
+  "alimento": "Ervilha, em vagem",
+  "kcal": 88,
+  "proteina": 7,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 9,
+  "calcio_mg": 24
+ },
+ {
+  "id": 257,
+  "alimento": "Ervilha, enlatada, drenada",
+  "kcal": 73,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 5,
+  "calcio_mg": 22
+ },
+ {
+  "id": 258,
+  "alimento": "Espinafre, Nova Zelândia, cru",
+  "kcal": 16,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 97
+ },
+ {
+  "id": 259,
+  "alimento": "Espinafre, Nova Zelândia, refogado",
+  "kcal": 67,
+  "proteina": 2,
+  "lipideo": 5,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 112
+ },
+ {
+  "id": 260,
+  "alimento": "Estrogonofe de carne",
+  "kcal": 173,
+  "proteina": 15,
+  "lipideo": 10,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 28
+ },
+ {
+  "id": 261,
+  "alimento": "Estrogonofe de frango",
+  "kcal": 156,
+  "proteina": 17,
+  "lipideo": 7,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 26
+ },
+ {
+  "id": 262,
+  "alimento": "Farinha, de arroz, enriquecida",
+  "kcal": 363,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 85,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 263,
+  "alimento": "Farinha, de centeio, integral",
+  "kcal": 335,
+  "proteina": 12,
+  "lipideo": 1,
+  "carbohidrato": 73,
+  "fibra": 15,
+  "calcio_mg": 33
+ },
+ {
+  "id": 264,
+  "alimento": "Farinha, de mandioca, crua",
+  "kcal": 360,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 87,
+  "fibra": 6,
+  "calcio_mg": 64
+ },
+ {
+  "id": 265,
+  "alimento": "Farinha, de mandioca, torrada",
+  "kcal": 365,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 89,
+  "fibra": 6,
+  "calcio_mg": 75
+ },
+ {
+  "id": 266,
+  "alimento": "Farinha, de mesocarpo de babaçu, crua",
+  "kcal": 328,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 79,
+  "fibra": 17,
+  "calcio_mg": 60
+ },
+ {
+  "id": 267,
+  "alimento": "Farinha, de milho, amarela",
+  "kcal": 350,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 79,
+  "fibra": 5,
+  "calcio_mg": 1
+ },
+ {
+  "id": 268,
+  "alimento": "Farinha, de puba",
+  "kcal": 360,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 87,
+  "fibra": 4,
+  "calcio_mg": 41
+ },
+ {
+  "id": 269,
+  "alimento": "Farinha, de rosca",
+  "kcal": 370,
+  "proteina": 11,
+  "lipideo": 1,
+  "carbohidrato": 75,
+  "fibra": 4,
+  "calcio_mg": 35
+ },
+ {
+  "id": 270,
+  "alimento": "Farinha, de trigo",
+  "kcal": 360,
+  "proteina": 9,
+  "lipideo": 1,
+  "carbohidrato": 75,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 271,
+  "alimento": "Farinha, láctea, de cereais",
+  "kcal": 414,
+  "proteina": 11,
+  "lipideo": 5,
+  "carbohidrato": 77,
+  "fibra": 1,
+  "calcio_mg": 196
+ },
+ {
+  "id": 272,
+  "alimento": "Fécula, de mandioca",
+  "kcal": 330,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 81,
+  "fibra": 0,
+  "calcio_mg": 11
+ },
+ {
+  "id": 273,
+  "alimento": "Feijão tropeiro mineiro",
+  "kcal": 151,
+  "proteina": 10,
+  "lipideo": 6,
+  "carbohidrato": 19,
+  "fibra": 3,
+  "calcio_mg": 41
+ },
+ {
+  "id": 274,
+  "alimento": "Feijão, broto, cru",
+  "kcal": 38,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 14
+ },
+ {
+  "id": 275,
+  "alimento": "Feijão, carioca, cozido",
+  "kcal": 76,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 8,
+  "calcio_mg": 26
+ },
+ {
+  "id": 276,
+  "alimento": "Feijão, carioca, cru",
+  "kcal": 329,
+  "proteina": 19,
+  "lipideo": 1,
+  "carbohidrato": 61,
+  "fibra": 18,
+  "calcio_mg": 122
+ },
+ {
+  "id": 277,
+  "alimento": "Feijão, fradinho, cozido",
+  "kcal": 78,
+  "proteina": 5,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 7,
+  "calcio_mg": 17
+ },
+ {
+  "id": 278,
+  "alimento": "Feijão, fradinho, cru",
+  "kcal": 339,
+  "proteina": 20,
+  "lipideo": 2,
+  "carbohidrato": 61,
+  "fibra": 23,
+  "calcio_mg": 77
+ },
+ {
+  "id": 279,
+  "alimento": "Feijão, jalo, cozido",
+  "kcal": 92,
+  "proteina": 6,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 13,
+  "calcio_mg": 29
+ },
+ {
+  "id": 280,
+  "alimento": "Feijão, jalo, cru",
+  "kcal": 327,
+  "proteina": 20,
+  "lipideo": 0,
+  "carbohidrato": 61,
+  "fibra": 30,
+  "calcio_mg": 97
+ },
+ {
+  "id": 281,
+  "alimento": "Feijão, preto, cozido",
+  "kcal": 77,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 8,
+  "calcio_mg": 29
+ },
+ {
+  "id": 282,
+  "alimento": "Feijão, preto, cru",
+  "kcal": 323,
+  "proteina": 21,
+  "lipideo": 1,
+  "carbohidrato": 58,
+  "fibra": 21,
+  "calcio_mg": 110
+ },
+ {
+  "id": 283,
+  "alimento": "Feijão, rajado, cozido",
+  "kcal": 84,
+  "proteina": 5,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 9,
+  "calcio_mg": 29
+ },
+ {
+  "id": 284,
+  "alimento": "Feijão, rajado, cru",
+  "kcal": 325,
+  "proteina": 17,
+  "lipideo": 1,
+  "carbohidrato": 62,
+  "fibra": 24,
+  "calcio_mg": 111
+ },
+ {
+  "id": 285,
+  "alimento": "Feijão, rosinha, cozido",
+  "kcal": 67,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 4,
+  "calcio_mg": 19
+ },
+ {
+  "id": 286,
+  "alimento": "Feijão, rosinha, cru",
+  "kcal": 336,
+  "proteina": 20,
+  "lipideo": 1,
+  "carbohidrato": 62,
+  "fibra": 20,
+  "calcio_mg": 67
+ },
+ {
+  "id": 287,
+  "alimento": "Feijão, roxo, cozido",
+  "kcal": 76,
+  "proteina": 5,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 11,
+  "calcio_mg": 22
+ },
+ {
+  "id": 288,
+  "alimento": "Feijão, roxo, cru",
+  "kcal": 331,
+  "proteina": 22,
+  "lipideo": 1,
+  "carbohidrato": 59,
+  "fibra": 33,
+  "calcio_mg": 120
+ },
+ {
+  "id": 289,
+  "alimento": "Fermento em pó, químico",
+  "kcal": 89,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 43,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 290,
+  "alimento": "Fermento, biológico, levedura, tablete",
+  "kcal": 89,
+  "proteina": 16,
+  "lipideo": 1,
+  "carbohidrato": 7,
+  "fibra": 4,
+  "calcio_mg": 18
+ },
+ {
+  "id": 291,
+  "alimento": "Figo, cru",
+  "kcal": 41,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 27
+ },
+ {
+  "id": 292,
+  "alimento": "Figo, enlatado, em calda",
+  "kcal": 184,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 50,
+  "fibra": 1,
+  "calcio_mg": 32
+ },
+ {
+  "id": 293,
+  "alimento": "Frango, asa, com pele, crua",
+  "kcal": 213,
+  "proteina": 18,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 294,
+  "alimento": "Frango, caipira, inteiro, com pele, cozido",
+  "kcal": 242,
+  "proteina": 23,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 16
+ },
+ {
+  "id": 295,
+  "alimento": "Frango, caipira, inteiro, sem pele, cozido",
+  "kcal": 195,
+  "proteina": 29,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 66
+ },
+ {
+  "id": 296,
+  "alimento": "Frango, com açafrão",
+  "kcal": 112,
+  "proteina": 9,
+  "lipideo": 6,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 297,
+  "alimento": "Frango, coração, cru",
+  "kcal": 221,
+  "proteina": 12,
+  "lipideo": 18,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 298,
+  "alimento": "Frango, coração, grelhado",
+  "kcal": 207,
+  "proteina": 22,
+  "lipideo": 12,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 299,
+  "alimento": "Frango, coxa, com pele, assada",
+  "kcal": 215,
+  "proteina": 28,
+  "lipideo": 10,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 300,
+  "alimento": "Frango, coxa, com pele, crua",
+  "kcal": 161,
+  "proteina": 17,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 301,
+  "alimento": "Frango, coxa, sem pele, cozida",
+  "kcal": 167,
+  "proteina": 26,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 11
+ },
+ {
+  "id": 302,
+  "alimento": "Frango, coxa, sem pele, crua",
+  "kcal": 119,
+  "proteina": 17,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 303,
+  "alimento": "Frango, fígado, cru",
+  "kcal": 106,
+  "proteina": 17,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 304,
+  "alimento": "Frango, filé, à milanesa",
+  "kcal": 220,
+  "proteina": 28,
+  "lipideo": 7,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 8
+ },
+ {
+  "id": 305,
+  "alimento": "Frango, inteiro, com pele, cru",
+  "kcal": 226,
+  "proteina": 16,
+  "lipideo": 17,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 306,
+  "alimento": "Frango, inteiro, sem pele, assado",
+  "kcal": 187,
+  "proteina": 28,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 307,
+  "alimento": "Frango, inteiro, sem pele, cozido",
+  "kcal": 170,
+  "proteina": 24,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 308,
+  "alimento": "Frango, inteiro, sem pele, cru",
+  "kcal": 129,
+  "proteina": 20,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 309,
+  "alimento": "Frango, peito, com pele, assado",
+  "kcal": 211,
+  "proteina": 33,
+  "lipideo": 7,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 310,
+  "alimento": "Frango, peito, com pele, cru",
+  "kcal": 149,
+  "proteina": 20,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 311,
+  "alimento": "Frango, peito, sem pele, cozido",
+  "kcal": 162,
+  "proteina": 31,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 312,
+  "alimento": "Frango, peito, sem pele, cru",
+  "kcal": 119,
+  "proteina": 21,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 313,
+  "alimento": "Frango, peito, sem pele, grelhado",
+  "kcal": 159,
+  "proteina": 32,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 314,
+  "alimento": "Frango, sobrecoxa, com pele, assada",
+  "kcal": 259,
+  "proteina": 28,
+  "lipideo": 15,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 315,
+  "alimento": "Frango, sobrecoxa, com pele, crua",
+  "kcal": 254,
+  "proteina": 15,
+  "lipideo": 20,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 316,
+  "alimento": "Frango, sobrecoxa, sem pele, assada",
+  "kcal": 232,
+  "proteina": 29,
+  "lipideo": 12,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 317,
+  "alimento": "Frango, sobrecoxa, sem pele, crua",
+  "kcal": 161,
+  "proteina": 17,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 318,
+  "alimento": "Fruta-pão, crua",
+  "kcal": 67,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 17,
+  "fibra": 5,
+  "calcio_mg": 33
+ },
+ {
+  "id": 319,
+  "alimento": "Gelatina, sabores variados, pó",
+  "kcal": 380,
+  "proteina": 8,
+  "lipideo": 0,
+  "carbohidrato": 89,
+  "fibra": 0,
+  "calcio_mg": 26
+ },
+ {
+  "id": 320,
+  "alimento": "Geléia, mocotó, natural",
+  "kcal": 106,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 24,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 321,
+  "alimento": "Gergelim, semente",
+  "kcal": 583,
+  "proteina": 21,
+  "lipideo": 50,
+  "carbohidrato": 21,
+  "fibra": 11,
+  "calcio_mg": 825
+ },
+ {
+  "id": 322,
+  "alimento": "Glicose de milho",
+  "kcal": 292,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 79,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 323,
+  "alimento": "Goiaba, branca, com casca, crua",
+  "kcal": 51,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 6,
+  "calcio_mg": 5
+ },
+ {
+  "id": 324,
+  "alimento": "Goiaba, doce em pasta",
+  "kcal": 268,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 74,
+  "fibra": 3,
+  "calcio_mg": 10
+ },
+ {
+  "id": 325,
+  "alimento": "Goiaba, doce, cascão",
+  "kcal": 285,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 78,
+  "fibra": 4,
+  "calcio_mg": 14
+ },
+ {
+  "id": 326,
+  "alimento": "Goiaba, vermelha, com casca, crua",
+  "kcal": 54,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 6,
+  "calcio_mg": 4
+ },
+ {
+  "id": 327,
+  "alimento": "Grão-de-bico, cru",
+  "kcal": 354,
+  "proteina": 21,
+  "lipideo": 5,
+  "carbohidrato": 57,
+  "fibra": 12,
+  "calcio_mg": 114
+ },
+ {
+  "id": 328,
+  "alimento": "Graviola, crua",
+  "kcal": 61,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 1,
+  "calcio_mg": 40
+ },
+ {
+  "id": 329,
+  "alimento": "Graviola, polpa, congelada",
+  "kcal": 38,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 1,
+  "calcio_mg": 5
+ },
+ {
+  "id": 330,
+  "alimento": "Guandu, cru",
+  "kcal": 344,
+  "proteina": 18,
+  "lipideo": 2,
+  "carbohidrato": 64,
+  "fibra": 21,
+  "calcio_mg": 129
+ },
+ {
+  "id": 331,
+  "alimento": "Hambúrguer, bovino, cru",
+  "kcal": 214,
+  "proteina": 13,
+  "lipideo": 16,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 34
+ },
+ {
+  "id": 332,
+  "alimento": "Hambúrguer, bovino, frito",
+  "kcal": 258,
+  "proteina": 19,
+  "lipideo": 17,
+  "carbohidrato": 6,
+  "fibra": 0,
+  "calcio_mg": 62
+ },
+ {
+  "id": 333,
+  "alimento": "Hambúrguer, bovino, grelhado",
+  "kcal": 209,
+  "proteina": 13,
+  "lipideo": 12,
+  "carbohidrato": 11,
+  "fibra": 0,
+  "calcio_mg": 56
+ },
+ {
+  "id": 334,
+  "alimento": "Inhame, cru",
+  "kcal": 96,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 23,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 335,
+  "alimento": "Iogurte, natural",
+  "kcal": 51,
+  "proteina": 4,
+  "lipideo": 3,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 143
+ },
+ {
+  "id": 336,
+  "alimento": "Iogurte, natural, desnatado",
+  "kcal": 41,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 156
+ },
+ {
+  "id": 337,
+  "alimento": "Iogurte, sabor abacaxi",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 338,
+  "alimento": "Iogurte, sabor morango",
+  "kcal": 69,
+  "proteina": 2,
+  "lipideo": 2,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 101
+ },
+ {
+  "id": 339,
+  "alimento": "Iogurte, sabor pêssego",
+  "kcal": 67,
+  "proteina": 2,
+  "lipideo": 2,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 95
+ },
+ {
+  "id": 340,
+  "alimento": "Jabuticaba, crua",
+  "kcal": 58,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 2,
+  "calcio_mg": 8
+ },
+ {
+  "id": 341,
+  "alimento": "Jaca, crua",
+  "kcal": 87,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 22,
+  "fibra": 2,
+  "calcio_mg": 11
+ },
+ {
+  "id": 342,
+  "alimento": "Jambo, cru",
+  "kcal": 26,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 5,
+  "calcio_mg": 13
+ },
+ {
+  "id": 343,
+  "alimento": "Jamelão, cru",
+  "kcal": 41,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 344,
+  "alimento": "Jiló, cru",
+  "kcal": 27,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 4,
+  "calcio_mg": 19
+ },
+ {
+  "id": 345,
+  "alimento": "Jurubeba, crua",
+  "kcal": 125,
+  "proteina": 4,
+  "lipideo": 3,
+  "carbohidrato": 23,
+  "fibra": 23,
+  "calcio_mg": 151
+ },
+ {
+  "id": 346,
+  "alimento": "Kiwi, cru",
+  "kcal": 51,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 2,
+  "calcio_mg": 23
+ },
+ {
+  "id": 347,
+  "alimento": "L",
+  "kcal": 116,
+  "proteina": 8,
+  "lipideo": 6,
+  "carbohidrato": 11,
+  "fibra": 5,
+  "calcio_mg": 32
+ },
+ {
+  "id": 348,
+  "alimento": "Lambari, congelado, cru",
+  "kcal": 130,
+  "proteina": 16,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 1181
+ },
+ {
+  "id": 349,
+  "alimento": "Lambari, congelado, frito",
+  "kcal": 326,
+  "proteina": 28,
+  "lipideo": 22,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 1881
+ },
+ {
+  "id": 350,
+  "alimento": "Lambari, fresco, cru",
+  "kcal": 151,
+  "proteina": 15,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 590
+ },
+ {
+  "id": 351,
+  "alimento": "Laranja, baía, crua",
+  "kcal": 45,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 35
+ },
+ {
+  "id": 352,
+  "alimento": "Laranja, baía, suco",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 353,
+  "alimento": "Laranja, da terra, crua",
+  "kcal": 51,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 3,
+  "calcio_mg": 51
+ },
+ {
+  "id": 354,
+  "alimento": "Laranja, da terra, suco",
+  "kcal": 40,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 1,
+  "calcio_mg": 13
+ },
+ {
+  "id": 355,
+  "alimento": "Laranja, lima, crua",
+  "kcal": 45,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 31
+ },
+ {
+  "id": 356,
+  "alimento": "Laranja, lima, suco",
+  "kcal": 39,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 357,
+  "alimento": "Laranja, pêra, crua",
+  "kcal": 36,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 21
+ },
+ {
+  "id": 358,
+  "alimento": "Laranja, pêra, suco",
+  "kcal": 32,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 359,
+  "alimento": "Laranja, valência, crua",
+  "kcal": 46,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 33
+ },
+ {
+  "id": 360,
+  "alimento": "Laranja, valência, suco",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 361,
+  "alimento": "Lasanha, massa fresca, cozida",
+  "kcal": 163,
+  "proteina": 5,
+  "lipideo": 1,
+  "carbohidrato": 32,
+  "fibra": 1,
+  "calcio_mg": 9
+ },
+ {
+  "id": 362,
+  "alimento": "Lasanha, massa fresca, crua",
+  "kcal": 220,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 45,
+  "fibra": 1,
+  "calcio_mg": 16
+ },
+ {
+  "id": 363,
+  "alimento": "Leite, condensado",
+  "kcal": 312,
+  "proteina": 7,
+  "lipideo": 6,
+  "carbohidrato": 56,
+  "fibra": 0,
+  "calcio_mg": 246
+ },
+ {
+  "id": 364,
+  "alimento": "Leite, de cabra",
+  "kcal": 66,
+  "proteina": 3,
+  "lipideo": 3,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 112
+ },
+ {
+  "id": 365,
+  "alimento": "Leite, de coco",
+  "kcal": 166,
+  "proteina": 1,
+  "lipideo": 18,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 366,
+  "alimento": "Leite, de vaca, achocolatado",
+  "kcal": 82,
+  "proteina": 2,
+  "lipideo": 2,
+  "carbohidrato": 14,
+  "fibra": 0,
+  "calcio_mg": 69
+ },
+ {
+  "id": 367,
+  "alimento": "Leite, de vaca, desnatado, pó",
+  "kcal": 361,
+  "proteina": 34,
+  "lipideo": 0,
+  "carbohidrato": 53,
+  "fibra": 0,
+  "calcio_mg": 1363
+ },
+ {
+  "id": 368,
+  "alimento": "Leite, de vaca, desnatado, UHT",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 133
+ },
+ {
+  "id": 369,
+  "alimento": "Leite, de vaca, integral",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 122
+ },
+ {
+  "id": 370,
+  "alimento": "Leite, de vaca, integral, pó",
+  "kcal": 496,
+  "proteina": 25,
+  "lipideo": 26,
+  "carbohidrato": 39,
+  "fibra": 0,
+  "calcio_mg": 890
+ },
+ {
+  "id": 371,
+  "alimento": "Leite, fermentado",
+  "kcal": 69,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 0,
+  "calcio_mg": 71
+ },
+ {
+  "id": 372,
+  "alimento": "Lentilha, cozida",
+  "kcal": 92,
+  "proteina": 6,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 7,
+  "calcio_mg": 16
+ },
+ {
+  "id": 373,
+  "alimento": "Lentilha, crua",
+  "kcal": 339,
+  "proteina": 23,
+  "lipideo": 0,
+  "carbohidrato": 62,
+  "fibra": 16,
+  "calcio_mg": 53
+ },
+ {
+  "id": 374,
+  "alimento": "Limão, cravo, suco",
+  "kcal": 14,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 375,
+  "alimento": "Limão, galego, suco",
+  "kcal": 22,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 376,
+  "alimento": "Limão, tahiti, cru",
+  "kcal": 31,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 50
+ },
+ {
+  "id": 377,
+  "alimento": "Lingüiça, frango, crua",
+  "kcal": 218,
+  "proteina": 14,
+  "lipideo": 17,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 378,
+  "alimento": "Lingüiça, frango, frita",
+  "kcal": 245,
+  "proteina": 18,
+  "lipideo": 18,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 15
+ },
+ {
+  "id": 379,
+  "alimento": "Lingüiça, frango, grelhada",
+  "kcal": 243,
+  "proteina": 18,
+  "lipideo": 18,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 380,
+  "alimento": "Lingüiça, porco, crua",
+  "kcal": 227,
+  "proteina": 16,
+  "lipideo": 17,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 381,
+  "alimento": "Lingüiça, porco, frita",
+  "kcal": 279,
+  "proteina": 20,
+  "lipideo": 21,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 382,
+  "alimento": "Lingüiça, porco, grelhada",
+  "kcal": 296,
+  "proteina": 23,
+  "lipideo": 21,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 383,
+  "alimento": "Linhaça, semente",
+  "kcal": 495,
+  "proteina": 14,
+  "lipideo": 32,
+  "carbohidrato": 43,
+  "fibra": 33,
+  "calcio_mg": 211
+ },
+ {
+  "id": 384,
+  "alimento": "Maçã, Argentina, com casca, crua",
+  "kcal": 62,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 2,
+  "calcio_mg": 3
+ },
+ {
+  "id": 385,
+  "alimento": "Maçã, Fuji, com casca, crua",
+  "kcal": 55,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 1,
+  "calcio_mg": 1
+ },
+ {
+  "id": 386,
+  "alimento": "Macarrão, instantâneo",
+  "kcal": 435,
+  "proteina": 8,
+  "lipideo": 17,
+  "carbohidrato": 62,
+  "fibra": 5,
+  "calcio_mg": 17
+ },
+ {
+  "id": 387,
+  "alimento": "Macarrão, molho bolognesa",
+  "kcal": 119,
+  "proteina": 4,
+  "lipideo": 0,
+  "carbohidrato": 22,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 388,
+  "alimento": "Macarrão, trigo, cru",
+  "kcal": 371,
+  "proteina": 9,
+  "lipideo": 1,
+  "carbohidrato": 77,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 389,
+  "alimento": "Macarrão, trigo, cru, com ovos",
+  "kcal": 370,
+  "proteina": 10,
+  "lipideo": 1,
+  "carbohidrato": 76,
+  "fibra": 2,
+  "calcio_mg": 19
+ },
+ {
+  "id": 390,
+  "alimento": "Macaúba, crua",
+  "kcal": 404,
+  "proteina": 2,
+  "lipideo": 40,
+  "carbohidrato": 13,
+  "fibra": 13,
+  "calcio_mg": 66
+ },
+ {
+  "id": 391,
+  "alimento": "Maionese, tradicional com ovos",
+  "kcal": 302,
+  "proteina": 0,
+  "lipideo": 30,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 392,
+  "alimento": "Mamão verde, doce em calda, drenado",
+  "kcal": 209,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 57,
+  "fibra": 1,
+  "calcio_mg": 12
+ },
+ {
+  "id": 393,
+  "alimento": "Mamão, doce em calda, drenado",
+  "kcal": 195,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 54,
+  "fibra": 1,
+  "calcio_mg": 20
+ },
+ {
+  "id": 394,
+  "alimento": "Mamão, Formosa, cru",
+  "kcal": 45,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 1,
+  "calcio_mg": 24
+ },
+ {
+  "id": 395,
+  "alimento": "Mamão, Papaia, cru",
+  "kcal": 40,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 22
+ },
+ {
+  "id": 396,
+  "alimento": "Mandioca, cozida",
+  "kcal": 125,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 30,
+  "fibra": 1,
+  "calcio_mg": 18
+ },
+ {
+  "id": 397,
+  "alimento": "Mandioca, crua",
+  "kcal": 151,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 36,
+  "fibra": 1,
+  "calcio_mg": 15
+ },
+ {
+  "id": 398,
+  "alimento": "Mandioca, farofa, temperada",
+  "kcal": 405,
+  "proteina": 2,
+  "lipideo": 9,
+  "carbohidrato": 80,
+  "fibra": 7,
+  "calcio_mg": 65
+ },
+ {
+  "id": 399,
+  "alimento": "Mandioca, frita",
+  "kcal": 300,
+  "proteina": 1,
+  "lipideo": 11,
+  "carbohidrato": 50,
+  "fibra": 1,
+  "calcio_mg": 23
+ },
+ {
+  "id": 400,
+  "alimento": "Manga, Haden, crua",
+  "kcal": 63,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 401,
+  "alimento": "Manga, Palmer, crua",
+  "kcal": 72,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 19,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 402,
+  "alimento": "Manga, polpa, congelada",
+  "kcal": 48,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 1,
+  "calcio_mg": 7
+ },
+ {
+  "id": 403,
+  "alimento": "Manga, Tommy Atkins, crua",
+  "kcal": 50,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 2,
+  "calcio_mg": 7
+ },
+ {
+  "id": 404,
+  "alimento": "Maniçoba",
+  "kcal": 134,
+  "proteina": 9,
+  "lipideo": 8,
+  "carbohidrato": 3,
+  "fibra": 2,
+  "calcio_mg": 65
+ },
+ {
+  "id": 405,
+  "alimento": "Manjericão, cru",
+  "kcal": 21,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 3,
+  "calcio_mg": 210
+ },
+ {
+  "id": 406,
+  "alimento": "Manjuba, com farinha de trigo, frita",
+  "kcal": 343,
+  "proteina": 23,
+  "lipideo": 22,
+  "carbohidrato": 10,
+  "fibra": 0,
+  "calcio_mg": 763
+ },
+ {
+  "id": 407,
+  "alimento": "Manjuba, frita",
+  "kcal": 349,
+  "proteina": 30,
+  "lipideo": 24,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 575
+ },
+ {
+  "id": 408,
+  "alimento": "Manteiga, com sal",
+  "kcal": 725,
+  "proteina": 0,
+  "lipideo": 82,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 409,
+  "alimento": "Manteiga, sem sal",
+  "kcal": 757,
+  "proteina": 0,
+  "lipideo": 86,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 3
+ },
+ {
+  "id": 410,
+  "alimento": "Maracujá, cru",
+  "kcal": 68,
+  "proteina": 1,
+  "lipideo": 2,
+  "carbohidrato": 12,
+  "fibra": 1,
+  "calcio_mg": 5
+ },
+ {
+  "id": 411,
+  "alimento": "Maracujá, polpa, congelada",
+  "kcal": 38,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 412,
+  "alimento": "Maracujá, suco concentrado, envasado",
+  "kcal": 41,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 413,
+  "alimento": "Margarina, com óleo hidrogenado, com sal (65% de lipídeos)",
+  "kcal": 596,
+  "proteina": 0,
+  "lipideo": 67,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 414,
+  "alimento": "Margarina, com óleo hidrogenado, sem sal (80% de lipídeos)",
+  "kcal": 722,
+  "proteina": 0,
+  "lipideo": 81,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 415,
+  "alimento": "Margarina, com óleo interesterificado, com sal (65%de lipídeos)",
+  "kcal": 594,
+  "proteina": 0,
+  "lipideo": 67,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 416,
+  "alimento": "Margarina, com óleo interesterificado, sem sal (65% de lipídeos)",
+  "kcal": 593,
+  "proteina": 0,
+  "lipideo": 67,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 417,
+  "alimento": "Maria mole",
+  "kcal": 301,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 73,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 418,
+  "alimento": "Maria mole, coco queimado",
+  "kcal": 306,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 75,
+  "fibra": 0,
+  "calcio_mg": 19
+ },
+ {
+  "id": 419,
+  "alimento": "Marmelada",
+  "kcal": 257,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 70,
+  "fibra": 4,
+  "calcio_mg": 11
+ },
+ {
+  "id": 420,
+  "alimento": "Maxixe, cru",
+  "kcal": 13,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 20
+ },
+ {
+  "id": 421,
+  "alimento": "Mel, de abelha",
+  "kcal": 309,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 84,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 422,
+  "alimento": "Melado",
+  "kcal": 296,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 76,
+  "fibra": 0,
+  "calcio_mg": 102
+ },
+ {
+  "id": 423,
+  "alimento": "Melancia, crua",
+  "kcal": 32,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 424,
+  "alimento": "Melão, cru",
+  "kcal": 29,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 425,
+  "alimento": "Merluza, filé, assado",
+  "kcal": 121,
+  "proteina": 26,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 35
+ },
+ {
+  "id": 426,
+  "alimento": "Merluza, filé, cru",
+  "kcal": 89,
+  "proteina": 16,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 20
+ },
+ {
+  "id": 427,
+  "alimento": "Merluza, filé, frito",
+  "kcal": 191,
+  "proteina": 26,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 35
+ },
+ {
+  "id": 428,
+  "alimento": "Mexerica, Murcote, crua",
+  "kcal": 57,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 3,
+  "calcio_mg": 33
+ },
+ {
+  "id": 429,
+  "alimento": "Mexerica, Rio, crua",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 2,
+  "calcio_mg": 17
+ },
+ {
+  "id": 430,
+  "alimento": "Milho, amido, cru",
+  "kcal": 361,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 87,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 431,
+  "alimento": "Milho, fubá, cru",
+  "kcal": 353,
+  "proteina": 7,
+  "lipideo": 1,
+  "carbohidrato": 78,
+  "fibra": 4,
+  "calcio_mg": 2
+ },
+ {
+  "id": 432,
+  "alimento": "Milho, verde, cru",
+  "kcal": 138,
+  "proteina": 6,
+  "lipideo": 0,
+  "carbohidrato": 28,
+  "fibra": 3,
+  "calcio_mg": 1
+ },
+ {
+  "id": 433,
+  "alimento": "Milho, verde, enlatado, drenado",
+  "kcal": 97,
+  "proteina": 3,
+  "lipideo": 2,
+  "carbohidrato": 17,
+  "fibra": 4,
+  "calcio_mg": 2
+ },
+ {
+  "id": 434,
+  "alimento": "Mingau tradicional, pó",
+  "kcal": 373,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 89,
+  "fibra": 0,
+  "calcio_mg": 522
+ },
+ {
+  "id": 435,
+  "alimento": "Morango, cru",
+  "kcal": 30,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 1,
+  "calcio_mg": 10
+ },
+ {
+  "id": 436,
+  "alimento": "Mortadela",
+  "kcal": 268,
+  "proteina": 11,
+  "lipideo": 21,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 66
+ },
+ {
+  "id": 437,
+  "alimento": "Mostarda, folha, crua",
+  "kcal": 18,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 1,
+  "calcio_mg": 68
+ },
+ {
+  "id": 438,
+  "alimento": "Nabo, cru",
+  "kcal": 18,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 42
+ },
+ {
+  "id": 439,
+  "alimento": "Nêspera, crua",
+  "kcal": 42,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 2,
+  "calcio_mg": 19
+ },
+ {
+  "id": 440,
+  "alimento": "Nhoque, batata, cozido",
+  "kcal": 180,
+  "proteina": 5,
+  "lipideo": 1,
+  "carbohidrato": 36,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 441,
+  "alimento": "Noz, crua",
+  "kcal": 620,
+  "proteina": 13,
+  "lipideo": 59,
+  "carbohidrato": 18,
+  "fibra": 7,
+  "calcio_mg": 105
+ },
+ {
+  "id": 442,
+  "alimento": "Óleo, de babaçu",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 443,
+  "alimento": "Óleo, de canola",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 444,
+  "alimento": "Óleo, de girassol",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 445,
+  "alimento": "Óleo, de milho",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 446,
+  "alimento": "Óleo, de pequi",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 447,
+  "alimento": "Óleo, de soja",
+  "kcal": 884,
+  "proteina": 0,
+  "lipideo": 100,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 448,
+  "alimento": "Omelete, de queijo",
+  "kcal": 268,
+  "proteina": 15,
+  "lipideo": 22,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 165
+ },
+ {
+  "id": 449,
+  "alimento": "Ovo, de codorna, inteiro, cru",
+  "kcal": 176,
+  "proteina": 13,
+  "lipideo": 12,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 78
+ },
+ {
+  "id": 450,
+  "alimento": "Ovo, de galinha, clara, cozida\/10minutos",
+  "kcal": 59,
+  "proteina": 13,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 451,
+  "alimento": "Ovo, de galinha, gema, cozida\/10minutos",
+  "kcal": 352,
+  "proteina": 15,
+  "lipideo": 30,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 114
+ },
+ {
+  "id": 452,
+  "alimento": "Ovo, de galinha, inteiro, cozido\/10minutos",
+  "kcal": 145,
+  "proteina": 13,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 49
+ },
+ {
+  "id": 453,
+  "alimento": "Ovo, de galinha, inteiro, cru",
+  "kcal": 143,
+  "proteina": 13,
+  "lipideo": 8,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 42
+ },
+ {
+  "id": 454,
+  "alimento": "Ovo, de galinha, inteiro, frito",
+  "kcal": 240,
+  "proteina": 15,
+  "lipideo": 18,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 72
+ },
+ {
+  "id": 455,
+  "alimento": "Paçoca, amendoim",
+  "kcal": 486,
+  "proteina": 15,
+  "lipideo": 26,
+  "carbohidrato": 52,
+  "fibra": 7,
+  "calcio_mg": 22
+ },
+ {
+  "id": 456,
+  "alimento": "Palmito, juçara, em conserva",
+  "kcal": 23,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 58
+ },
+ {
+  "id": 457,
+  "alimento": "Palmito, pupunha, em conserva",
+  "kcal": 29,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 2,
+  "calcio_mg": 32
+ },
+ {
+  "id": 458,
+  "alimento": "Pamonha, barra para cozimento, pré-cozida",
+  "kcal": 171,
+  "proteina": 2,
+  "lipideo": 4,
+  "carbohidrato": 30,
+  "fibra": 2,
+  "calcio_mg": 4
+ },
+ {
+  "id": 459,
+  "alimento": "Pão, aveia, forma",
+  "kcal": 343,
+  "proteina": 12,
+  "lipideo": 5,
+  "carbohidrato": 59,
+  "fibra": 5,
+  "calcio_mg": 108
+ },
+ {
+  "id": 460,
+  "alimento": "Pão, de queijo, assado",
+  "kcal": 363,
+  "proteina": 5,
+  "lipideo": 24,
+  "carbohidrato": 34,
+  "fibra": 0,
+  "calcio_mg": 102
+ },
+ {
+  "id": 461,
+  "alimento": "Pão, de queijo, cru",
+  "kcal": 294,
+  "proteina": 3,
+  "lipideo": 13,
+  "carbohidrato": 38,
+  "fibra": 0,
+  "calcio_mg": 87
+ },
+ {
+  "id": 462,
+  "alimento": "Pão, de soja",
+  "kcal": 308,
+  "proteina": 11,
+  "lipideo": 3,
+  "carbohidrato": 56,
+  "fibra": 5,
+  "calcio_mg": 90
+ },
+ {
+  "id": 463,
+  "alimento": "Pão, glúten, forma",
+  "kcal": 252,
+  "proteina": 11,
+  "lipideo": 2,
+  "carbohidrato": 44,
+  "fibra": 2,
+  "calcio_mg": 155
+ },
+ {
+  "id": 464,
+  "alimento": "Pão, milho, forma",
+  "kcal": 292,
+  "proteina": 8,
+  "lipideo": 3,
+  "carbohidrato": 56,
+  "fibra": 4,
+  "calcio_mg": 77
+ },
+ {
+  "id": 465,
+  "alimento": "Pão, trigo, forma, integral",
+  "kcal": 253,
+  "proteina": 9,
+  "lipideo": 3,
+  "carbohidrato": 49,
+  "fibra": 6,
+  "calcio_mg": 131
+ },
+ {
+  "id": 466,
+  "alimento": "Pão, trigo, francês",
+  "kcal": 299,
+  "proteina": 7,
+  "lipideo": 3,
+  "carbohidrato": 58,
+  "fibra": 2,
+  "calcio_mg": 15
+ },
+ {
+  "id": 467,
+  "alimento": "Pão, trigo, sovado",
+  "kcal": 310,
+  "proteina": 8,
+  "lipideo": 2,
+  "carbohidrato": 61,
+  "fibra": 2,
+  "calcio_mg": 51
+ },
+ {
+  "id": 468,
+  "alimento": "Pastel, de carne, cru",
+  "kcal": 288,
+  "proteina": 10,
+  "lipideo": 8,
+  "carbohidrato": 42,
+  "fibra": 1,
+  "calcio_mg": 16
+ },
+ {
+  "id": 469,
+  "alimento": "Pastel, de carne, frito",
+  "kcal": 388,
+  "proteina": 10,
+  "lipideo": 20,
+  "carbohidrato": 43,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 470,
+  "alimento": "Pastel, de queijo, cru",
+  "kcal": 308,
+  "proteina": 9,
+  "lipideo": 9,
+  "carbohidrato": 45,
+  "fibra": 1,
+  "calcio_mg": 154
+ },
+ {
+  "id": 471,
+  "alimento": "Pastel, de queijo, frito",
+  "kcal": 422,
+  "proteina": 8,
+  "lipideo": 22,
+  "carbohidrato": 48,
+  "fibra": 0,
+  "calcio_mg": 126
+ },
+ {
+  "id": 472,
+  "alimento": "Pastel, massa, crua",
+  "kcal": 310,
+  "proteina": 6,
+  "lipideo": 5,
+  "carbohidrato": 57,
+  "fibra": 1,
+  "calcio_mg": 12
+ },
+ {
+  "id": 473,
+  "alimento": "Pastel, massa, frita",
+  "kcal": 569,
+  "proteina": 6,
+  "lipideo": 40,
+  "carbohidrato": 49,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 474,
+  "alimento": "Pé-de-moleque, amendoim",
+  "kcal": 503,
+  "proteina": 13,
+  "lipideo": 28,
+  "carbohidrato": 54,
+  "fibra": 3,
+  "calcio_mg": 27
+ },
+ {
+  "id": 475,
+  "alimento": "Pepino, cru",
+  "kcal": 9,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 1,
+  "calcio_mg": 9
+ },
+ {
+  "id": 476,
+  "alimento": "Pequi, cru",
+  "kcal": 204,
+  "proteina": 2,
+  "lipideo": 17,
+  "carbohidrato": 12,
+  "fibra": 19,
+  "calcio_mg": 32
+ },
+ {
+  "id": 477,
+  "alimento": "Pêra, Park, crua",
+  "kcal": 60,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 2,
+  "calcio_mg": 8
+ },
+ {
+  "id": 478,
+  "alimento": "Pêra, Williams, crua",
+  "kcal": 53,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 3,
+  "calcio_mg": 8
+ },
+ {
+  "id": 479,
+  "alimento": "Peru, congelado, assado",
+  "kcal": 163,
+  "proteina": 26,
+  "lipideo": 5,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 480,
+  "alimento": "Peru, congelado, cru",
+  "kcal": 93,
+  "proteina": 18,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 481,
+  "alimento": "Pescada, branca, crua",
+  "kcal": 110,
+  "proteina": 16,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 15
+ },
+ {
+  "id": 482,
+  "alimento": "Pescada, branca, frita",
+  "kcal": 223,
+  "proteina": 27,
+  "lipideo": 11,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 378
+ },
+ {
+  "id": 483,
+  "alimento": "Pescada, filé, com farinha de trigo, frito",
+  "kcal": 283,
+  "proteina": 21,
+  "lipideo": 19,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 26
+ },
+ {
+  "id": 484,
+  "alimento": "Pescada, filé, cru",
+  "kcal": 107,
+  "proteina": 16,
+  "lipideo": 4,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 13
+ },
+ {
+  "id": 485,
+  "alimento": "Pescada, filé, frito",
+  "kcal": 154,
+  "proteina": 28,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 10
+ },
+ {
+  "id": 486,
+  "alimento": "Pescada, filé, molho escabeche",
+  "kcal": 141,
+  "proteina": 11,
+  "lipideo": 8,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 20
+ },
+ {
+  "id": 487,
+  "alimento": "Pescadinha, crua",
+  "kcal": 76,
+  "proteina": 15,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 331
+ },
+ {
+  "id": 488,
+  "alimento": "Pêssego, Aurora, cru",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 1,
+  "calcio_mg": 3
+ },
+ {
+  "id": 489,
+  "alimento": "Pêssego, enlatado, em calda",
+  "kcal": 63,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 16,
+  "fibra": 1,
+  "calcio_mg": 4
+ },
+ {
+  "id": 490,
+  "alimento": "Pimentão, amarelo, cru",
+  "kcal": 27,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 1,
+  "calcio_mg": 9
+ },
+ {
+  "id": 491,
+  "alimento": "Pimentão, verde, cru",
+  "kcal": 21,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 2,
+  "calcio_mg": 8
+ },
+ {
+  "id": 492,
+  "alimento": "Pimentão, vermelho, cru",
+  "kcal": 23,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 1,
+  "calcio_mg": 6
+ },
+ {
+  "id": 493,
+  "alimento": "Pinha, crua",
+  "kcal": 88,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 22,
+  "fibra": 3,
+  "calcio_mg": 20
+ },
+ {
+  "id": 494,
+  "alimento": "Pinhão, cozido",
+  "kcal": 174,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 43,
+  "fibra": 15,
+  "calcio_mg": 15
+ },
+ {
+  "id": 495,
+  "alimento": "Pintado, assado",
+  "kcal": 191,
+  "proteina": 36,
+  "lipideo": 3,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 113
+ },
+ {
+  "id": 496,
+  "alimento": "Pintado, cru",
+  "kcal": 91,
+  "proteina": 18,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 497,
+  "alimento": "Pintado, grelhado",
+  "kcal": 152,
+  "proteina": 30,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 68
+ },
+ {
+  "id": 498,
+  "alimento": "Pipoca, com óleo de soja, sem sal",
+  "kcal": 448,
+  "proteina": 9,
+  "lipideo": 15,
+  "carbohidrato": 70,
+  "fibra": 14,
+  "calcio_mg": 2
+ },
+ {
+  "id": 499,
+  "alimento": "Pitanga, crua",
+  "kcal": 41,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 3,
+  "calcio_mg": 17
+ },
+ {
+  "id": 500,
+  "alimento": "Pitanga, polpa, congelada",
+  "kcal": 19,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 501,
+  "alimento": "Polenta, pré-cozida",
+  "kcal": 102,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 23,
+  "fibra": 2,
+  "calcio_mg": 1
+ },
+ {
+  "id": 502,
+  "alimento": "Polvilho, doce",
+  "kcal": 351,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 86,
+  "fibra": 0,
+  "calcio_mg": 27
+ },
+ {
+  "id": 503,
+  "alimento": "Porco, bisteca, crua",
+  "kcal": 164,
+  "proteina": 21,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 504,
+  "alimento": "Porco, bisteca, frita",
+  "kcal": 311,
+  "proteina": 33,
+  "lipideo": 18,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 69
+ },
+ {
+  "id": 505,
+  "alimento": "Porco, bisteca, grelhada",
+  "kcal": 280,
+  "proteina": 28,
+  "lipideo": 17,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 34
+ },
+ {
+  "id": 506,
+  "alimento": "Porco, costela, assada",
+  "kcal": 402,
+  "proteina": 30,
+  "lipideo": 30,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 16
+ },
+ {
+  "id": 507,
+  "alimento": "Porco, costela, crua",
+  "kcal": 255,
+  "proteina": 18,
+  "lipideo": 19,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 508,
+  "alimento": "Porco, lombo, assado",
+  "kcal": 210,
+  "proteina": 35,
+  "lipideo": 6,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 19
+ },
+ {
+  "id": 509,
+  "alimento": "Porco, lombo, cru",
+  "kcal": 175,
+  "proteina": 22,
+  "lipideo": 8,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 510,
+  "alimento": "Porco, orelha, salgada, crua",
+  "kcal": 258,
+  "proteina": 18,
+  "lipideo": 19,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 5
+ },
+ {
+  "id": 511,
+  "alimento": "Porco, pernil, assado",
+  "kcal": 262,
+  "proteina": 32,
+  "lipideo": 13,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 17
+ },
+ {
+  "id": 512,
+  "alimento": "Porco, pernil, cru",
+  "kcal": 186,
+  "proteina": 20,
+  "lipideo": 11,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 513,
+  "alimento": "Porco, rabo, salgado, cru",
+  "kcal": 377,
+  "proteina": 15,
+  "lipideo": 34,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 21
+ },
+ {
+  "id": 514,
+  "alimento": "Porquinho, cru",
+  "kcal": 93,
+  "proteina": 20,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 25
+ },
+ {
+  "id": 515,
+  "alimento": "Presunto, com capa de gordura",
+  "kcal": 127,
+  "proteina": 14,
+  "lipideo": 6,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 516,
+  "alimento": "Presunto, sem capa de gordura",
+  "kcal": 93,
+  "proteina": 14,
+  "lipideo": 2,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 23
+ },
+ {
+  "id": 517,
+  "alimento": "Pupunha, cozida",
+  "kcal": 218,
+  "proteina": 2,
+  "lipideo": 12,
+  "carbohidrato": 29,
+  "fibra": 4,
+  "calcio_mg": 27
+ },
+ {
+  "id": 518,
+  "alimento": "Queijo, minas, frescal",
+  "kcal": 264,
+  "proteina": 17,
+  "lipideo": 20,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 579
+ },
+ {
+  "id": 519,
+  "alimento": "Queijo, minas, meia cura",
+  "kcal": 320,
+  "proteina": 21,
+  "lipideo": 24,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 695
+ },
+ {
+  "id": 520,
+  "alimento": "Queijo, mozarela",
+  "kcal": 329,
+  "proteina": 22,
+  "lipideo": 25,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 875
+ },
+ {
+  "id": 521,
+  "alimento": "Queijo, parmesão",
+  "kcal": 452,
+  "proteina": 35,
+  "lipideo": 33,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 991
+ },
+ {
+  "id": 522,
+  "alimento": "Queijo, pasteurizado",
+  "kcal": 303,
+  "proteina": 9,
+  "lipideo": 27,
+  "carbohidrato": 5,
+  "fibra": 0,
+  "calcio_mg": 323
+ },
+ {
+  "id": 523,
+  "alimento": "Queijo, petit suisse, morango",
+  "kcal": 121,
+  "proteina": 5,
+  "lipideo": 2,
+  "carbohidrato": 18,
+  "fibra": 0,
+  "calcio_mg": 730
+ },
+ {
+  "id": 524,
+  "alimento": "Queijo, prato",
+  "kcal": 359,
+  "proteina": 22,
+  "lipideo": 29,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 939
+ },
+ {
+  "id": 525,
+  "alimento": "Queijo, requeijão, cremoso",
+  "kcal": 256,
+  "proteina": 9,
+  "lipideo": 23,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 259
+ },
+ {
+  "id": 526,
+  "alimento": "Queijo, ricota",
+  "kcal": 139,
+  "proteina": 12,
+  "lipideo": 8,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 253
+ },
+ {
+  "id": 527,
+  "alimento": "Quiabo, cru",
+  "kcal": 29,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 4,
+  "calcio_mg": 112
+ },
+ {
+  "id": 528,
+  "alimento": "Quibe, assado",
+  "kcal": 136,
+  "proteina": 14,
+  "lipideo": 2,
+  "carbohidrato": 12,
+  "fibra": 1,
+  "calcio_mg": 15
+ },
+ {
+  "id": 529,
+  "alimento": "Quibe, cru",
+  "kcal": 109,
+  "proteina": 12,
+  "lipideo": 1,
+  "carbohidrato": 10,
+  "fibra": 1,
+  "calcio_mg": 12
+ },
+ {
+  "id": 530,
+  "alimento": "Quibe, frito",
+  "kcal": 253,
+  "proteina": 14,
+  "lipideo": 15,
+  "carbohidrato": 12,
+  "fibra": 0,
+  "calcio_mg": 21
+ },
+ {
+  "id": 531,
+  "alimento": "Quibebe",
+  "kcal": 86,
+  "proteina": 8,
+  "lipideo": 2,
+  "carbohidrato": 6,
+  "fibra": 1,
+  "calcio_mg": 7
+ },
+ {
+  "id": 532,
+  "alimento": "Quindim",
+  "kcal": 411,
+  "proteina": 4,
+  "lipideo": 24,
+  "carbohidrato": 46,
+  "fibra": 3,
+  "calcio_mg": 37
+ },
+ {
+  "id": 533,
+  "alimento": "Rabanete, cru",
+  "kcal": 13,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 2,
+  "calcio_mg": 20
+ },
+ {
+  "id": 534,
+  "alimento": "Rapadura",
+  "kcal": 351,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 90,
+  "fibra": 0,
+  "calcio_mg": 30
+ },
+ {
+  "id": 535,
+  "alimento": "Refrigerante, tipo água tônica",
+  "kcal": 30,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 536,
+  "alimento": "Refrigerante, tipo cola",
+  "kcal": 33,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 537,
+  "alimento": "Refrigerante, tipo guaraná",
+  "kcal": 38,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 538,
+  "alimento": "Refrigerante, tipo laranja",
+  "kcal": 45,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 539,
+  "alimento": "Refrigerante, tipo limão",
+  "kcal": 39,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 10,
+  "fibra": 0,
+  "calcio_mg": 1
+ },
+ {
+  "id": 540,
+  "alimento": "Repolho, branco, cru",
+  "kcal": 17,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 1,
+  "calcio_mg": 34
+ },
+ {
+  "id": 541,
+  "alimento": "Repolho, roxo, cru",
+  "kcal": 30,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 43
+ },
+ {
+  "id": 542,
+  "alimento": "Repolho, roxo, refogado",
+  "kcal": 41,
+  "proteina": 1,
+  "lipideo": 1,
+  "carbohidrato": 7,
+  "fibra": 1,
+  "calcio_mg": 42
+ },
+ {
+  "id": 543,
+  "alimento": "Romã, crua",
+  "kcal": 55,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 15,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 544,
+  "alimento": "Rúcula, crua",
+  "kcal": 13,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 1,
+  "calcio_mg": 116
+ },
+ {
+  "id": 545,
+  "alimento": "Sal, dietético",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 546,
+  "alimento": "Sal, grosso",
+  "kcal": 0,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 547,
+  "alimento": "Salada, de legumes, com maionese",
+  "kcal": 96,
+  "proteina": 1,
+  "lipideo": 7,
+  "carbohidrato": 8,
+  "fibra": 2,
+  "calcio_mg": 12
+ },
+ {
+  "id": 548,
+  "alimento": "Salada, de legumes, cozida no vapor",
+  "kcal": 35,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 2,
+  "calcio_mg": 32
+ },
+ {
+  "id": 549,
+  "alimento": "Salame",
+  "kcal": 397,
+  "proteina": 25,
+  "lipideo": 30,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 87
+ },
+ {
+  "id": 550,
+  "alimento": "Salmão, filé, com pele, fresco,  grelhado",
+  "kcal": 228,
+  "proteina": 23,
+  "lipideo": 14,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 28
+ },
+ {
+  "id": 551,
+  "alimento": "Salmão, sem pele, fresco, cru",
+  "kcal": 169,
+  "proteina": 19,
+  "lipideo": 9,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 8
+ },
+ {
+  "id": 552,
+  "alimento": "Salmão, sem pele, fresco, grelhado",
+  "kcal": 242,
+  "proteina": 26,
+  "lipideo": 14,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 15
+ },
+ {
+  "id": 553,
+  "alimento": "Salpicão, de frango",
+  "kcal": 147,
+  "proteina": 13,
+  "lipideo": 7,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 554,
+  "alimento": "Salsa, crua",
+  "kcal": 33,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 1,
+  "calcio_mg": 179
+ },
+ {
+  "id": 555,
+  "alimento": "Sarapatel",
+  "kcal": 122,
+  "proteina": 18,
+  "lipideo": 4,
+  "carbohidrato": 1,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 556,
+  "alimento": "Sardinha, assada",
+  "kcal": 164,
+  "proteina": 32,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 437
+ },
+ {
+  "id": 557,
+  "alimento": "Sardinha, conserva em óleo",
+  "kcal": 284,
+  "proteina": 15,
+  "lipideo": 24,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 550
+ },
+ {
+  "id": 558,
+  "alimento": "Sardinha, frita",
+  "kcal": 257,
+  "proteina": 33,
+  "lipideo": 12,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 482
+ },
+ {
+  "id": 559,
+  "alimento": "Sardinha, inteira, crua",
+  "kcal": 113,
+  "proteina": 21,
+  "lipideo": 2,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 167
+ },
+ {
+  "id": 560,
+  "alimento": "Seleta de legumes, enlatada",
+  "kcal": 56,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 3,
+  "calcio_mg": 16
+ },
+ {
+  "id": 561,
+  "alimento": "Serralha, crua",
+  "kcal": 30,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 3,
+  "calcio_mg": 126
+ },
+ {
+  "id": 562,
+  "alimento": "Shoyu",
+  "kcal": 60,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 11,
+  "fibra": 0,
+  "calcio_mg": 14
+ },
+ {
+  "id": 563,
+  "alimento": "Soja, extrato solúvel, natural, fluido",
+  "kcal": 39,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 16
+ },
+ {
+  "id": 564,
+  "alimento": "Soja, extrato solúvel, pó",
+  "kcal": 458,
+  "proteina": 35,
+  "lipideo": 26,
+  "carbohidrato": 28,
+  "fibra": 7,
+  "calcio_mg": 359
+ },
+ {
+  "id": 565,
+  "alimento": "Soja, farinha",
+  "kcal": 403,
+  "proteina": 36,
+  "lipideo": 14,
+  "carbohidrato": 38,
+  "fibra": 20,
+  "calcio_mg": 206
+ },
+ {
+  "id": 566,
+  "alimento": "Soja, queijo (tofu)",
+  "kcal": 64,
+  "proteina": 6,
+  "lipideo": 3,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 80
+ },
+ {
+  "id": 567,
+  "alimento": "Tabule",
+  "kcal": 57,
+  "proteina": 2,
+  "lipideo": 1,
+  "carbohidrato": 10,
+  "fibra": 2,
+  "calcio_mg": 18
+ },
+ {
+  "id": 568,
+  "alimento": "Tacacá",
+  "kcal": 46,
+  "proteina": 6,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 0,
+  "calcio_mg": 44
+ },
+ {
+  "id": 569,
+  "alimento": "Taioba, crua",
+  "kcal": 34,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 4,
+  "calcio_mg": 141
+ },
+ {
+  "id": 570,
+  "alimento": "Tamarindo, cru",
+  "kcal": 275,
+  "proteina": 3,
+  "lipideo": 0,
+  "carbohidrato": 72,
+  "fibra": 6,
+  "calcio_mg": 37
+ },
+ {
+  "id": 571,
+  "alimento": "Tangerina, Poncã, crua",
+  "kcal": 37,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 0,
+  "calcio_mg": 12
+ },
+ {
+  "id": 572,
+  "alimento": "Tangerina, Poncã, suco",
+  "kcal": 36,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 0,
+  "calcio_mg": 4
+ },
+ {
+  "id": 573,
+  "alimento": "Tapioca, com manteiga",
+  "kcal": 347,
+  "proteina": 0,
+  "lipideo": 10,
+  "carbohidrato": 63,
+  "fibra": 0,
+  "calcio_mg": 30
+ },
+ {
+  "id": 574,
+  "alimento": "Tempero a base de sal",
+  "kcal": 21,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 2,
+  "fibra": 0,
+  "calcio_mg": 0
+ },
+ {
+  "id": 575,
+  "alimento": "Tomate, com semente, cru",
+  "kcal": 15,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 3,
+  "fibra": 1,
+  "calcio_mg": 6
+ },
+ {
+  "id": 576,
+  "alimento": "Tomate, extrato",
+  "kcal": 60,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 2,
+  "calcio_mg": 29
+ },
+ {
+  "id": 577,
+  "alimento": "Tomate, molho industrializado",
+  "kcal": 38,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 7,
+  "fibra": 3,
+  "calcio_mg": 11
+ },
+ {
+  "id": 578,
+  "alimento": "Tomate, purê",
+  "kcal": 27,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 6,
+  "fibra": 1,
+  "calcio_mg": 13
+ },
+ {
+  "id": 579,
+  "alimento": "Tomate, salada",
+  "kcal": 20,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 2,
+  "calcio_mg": 6
+ },
+ {
+  "id": 580,
+  "alimento": "Torrada, pão francês",
+  "kcal": 377,
+  "proteina": 10,
+  "lipideo": 3,
+  "carbohidrato": 74,
+  "fibra": 3,
+  "calcio_mg": 18
+ },
+ {
+  "id": 581,
+  "alimento": "Toucinho, cru",
+  "kcal": 592,
+  "proteina": 11,
+  "lipideo": 60,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 2
+ },
+ {
+  "id": 582,
+  "alimento": "Toucinho, frito",
+  "kcal": 696,
+  "proteina": 27,
+  "lipideo": 64,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 583,
+  "alimento": "Tremoço, cru",
+  "kcal": 381,
+  "proteina": 33,
+  "lipideo": 10,
+  "carbohidrato": 43,
+  "fibra": 32,
+  "calcio_mg": 176
+ },
+ {
+  "id": 584,
+  "alimento": "Tremoço, em conserva",
+  "kcal": 120,
+  "proteina": 11,
+  "lipideo": 3,
+  "carbohidrato": 12,
+  "fibra": 14,
+  "calcio_mg": 15
+ },
+ {
+  "id": 585,
+  "alimento": "Tucumã, cru",
+  "kcal": 262,
+  "proteina": 2,
+  "lipideo": 19,
+  "carbohidrato": 26,
+  "fibra": 12,
+  "calcio_mg": 46
+ },
+ {
+  "id": 586,
+  "alimento": "Tucunaré, filé, congelado, cru",
+  "kcal": 87,
+  "proteina": 17,
+  "lipideo": 1,
+  "carbohidrato": 0,
+  "fibra": 0,
+  "calcio_mg": 19
+ },
+ {
+  "id": 587,
+  "alimento": "Tucupi, com pimenta-de-cheiro",
+  "kcal": 27,
+  "proteina": 2,
+  "lipideo": 0,
+  "carbohidrato": 4,
+  "fibra": 0,
+  "calcio_mg": 28
+ },
+ {
+  "id": 588,
+  "alimento": "Umbu, cru",
+  "kcal": 37,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 9,
+  "fibra": 1,
+  "calcio_mg": 11
+ },
+ {
+  "id": 589,
+  "alimento": "Umbu, polpa, congelada",
+  "kcal": 33,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 8,
+  "fibra": 1,
+  "calcio_mg": 10
+ },
+ {
+  "id": 590,
+  "alimento": "Uva, Itália, crua",
+  "kcal": 52,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 13,
+  "fibra": 0,
+  "calcio_mg": 6
+ },
+ {
+  "id": 591,
+  "alimento": "Uva, Rubi, crua",
+  "kcal": 49,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 12,
+  "fibra": 0,
+  "calcio_mg": 7
+ },
+ {
+  "id": 592,
+  "alimento": "Uva, suco concentrado, envasado",
+  "kcal": 57,
+  "proteina": 0,
+  "lipideo": 0,
+  "carbohidrato": 14,
+  "fibra": 0,
+  "calcio_mg": 9
+ },
+ {
+  "id": 593,
+  "alimento": "Vaca atolada",
+  "kcal": 144,
+  "proteina": 5,
+  "lipideo": 9,
+  "carbohidrato": 10,
+  "fibra": 2,
+  "calcio_mg": 62
+ },
+ {
+  "id": 594,
+  "alimento": "Vagem, crua",
+  "kcal": 24,
+  "proteina": 1,
+  "lipideo": 0,
+  "carbohidrato": 5,
+  "fibra": 2,
+  "calcio_mg": 41
+ },
+ {
+  "id": 595,
+  "alimento": "Vatapá",
+  "kcal": 254,
+  "proteina": 5,
+  "lipideo": 23,
+  "carbohidrato": 9,
+  "fibra": 1,
+  "calcio_mg": 46
+ },
+ {
+  "id": 596,
+  "alimento": "Virado à paulista",
+  "kcal": 306,
+  "proteina": 10,
+  "lipideo": 25,
+  "carbohidrato": 14,
+  "fibra": 2,
+  "calcio_mg": 40
+ },
+ {
+  "id": 597,
+  "alimento": "Yakisoba",
+  "kcal": 112,
+  "proteina": 7,
+  "lipideo": 2,
+  "carbohidrato": 18,
+  "fibra": 1,
+  "calcio_mg": 13
+ }
+]
